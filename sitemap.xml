@@ -5,11 +5,15 @@
 <loc>https://jtenniswood.github.io/portfolio/</loc>
 </url>
 <url>
-<loc>https://jtenniswood.github.io/portfolio/algolia-events-setup.html</loc>
-<lastmod>2025-02-04T14:36:57+00:00</lastmod>
+<loc>https://jtenniswood.github.io/portfolio/algolia-events-setup-2.html</loc>
+<lastmod>2025-02-04T14:40:28+00:00</lastmod>
 <image:image>
-<image:loc>https://jtenniswood.github.io/portfolio/media/posts/1/events.webp</image:loc>
-<image:title><![CDATA[Onboarding flow to understand the customers use case]]></image:title>
+<image:loc>https://jtenniswood.github.io/portfolio/media/posts/3/events.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://jtenniswood.github.io/portfolio/media/posts/3/events-2.webp</image:loc>
+<image:title><![CDATA[Algolia events setup]]></image:title>
 </image:image>
 </url>
 </urlset>
