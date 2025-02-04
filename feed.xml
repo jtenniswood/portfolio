@@ -3,7 +3,7 @@
     <title>James Tenniswood</title>
     <link href="https://jtenniswood.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://jtenniswood.github.io/portfolio" />
-    <updated>2025-02-04T16:33:04+00:00</updated>
+    <updated>2025-02-04T16:44:22+00:00</updated>
     <author>
         <name>James Tenniswood</name>
     </author>
@@ -103,13 +103,12 @@
             <![CDATA[
                 <section class="e-content" data-field="body">
 <section class="section section--body section--first section--last">
-<div class="section-divider"> </div>
+<h4 class="section-divider"><span style="color: var(--headings-color); font-family: var(--font-base); font-size: 1.26562em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);">Our team was challenged to create a seamless events monitoring experience, where customers can understand the health of their setup at a glance, and continue their path to enable Algolia services that boost their business performance.</span></h4>
 <div class="section-content">
 <div class="section-inner sectionLayout--insetColumn">
-<h4 id="b04e" class="graf graf--h4 graf-after--h3 graf--subtitle">Our team was challenged to create a seamless events monitoring experience, where customers can understand the health of their setup at a glance, and continue their path to enable Algolia services that boost their business performance.</h4>
-<h4 id="a61d" class="graf graf--h4 graf-after--h4">Why is this important?</h4>
+<h6 id="a61d" class="graf graf--h4 graf-after--h4">Why is this important?</h6>
 <p id="0a75" class="graf graf--p graf-after--h4">Tracking end customer events is critical to enabling AI recommendations, which helps optimise their search experience and automate a lot of the detailed configuration work connected with category management, search query reranking and synonym generation.</p>
-<h4 id="a140" class="graf graf--h4 graf-after--p">Principles</h4>
+<h6 id="a140" class="graf graf--h4 graf-after--p">Principles</h6>
 <ul class="postList">
 <li id="abc8" class="graf graf--li graf-after--h4">Users can quickly understand the health of the data being shared</li>
 <li id="350e" class="graf graf--li graf-after--li">Every path should have an actionable next step for the user to follow</li>
@@ -207,9 +206,7 @@
 </section>
 </section>
 <footer>
-<p>By <a href="https://medium.com/@jamestenniswood" class="p-author h-card">James Tenniswood</a> on <a href="https://medium.com/p/13c87dc009cd"><time class="dt-published" datetime="2024-02-28T09:44:27.761Z">February 28, 2024</time></a>.</p>
-<p><a href="https://medium.com/@jamestenniswood/algolia-crawler-management-13c87dc009cd" class="p-canonical">Canonical link</a></p>
-<p>Exported from <a href="https://medium.com">Medium</a> on February 3, 2025.</p>
+<p> </p>
 </footer>
             ]]>
         </content>
@@ -297,9 +294,7 @@
 </section>
 </section>
 <footer>
-<p>By <a href="https://medium.com/@jamestenniswood" class="p-author h-card">James Tenniswood</a> on <a href="https://medium.com/p/605e8e1ac95e"><time class="dt-published" datetime="2024-02-27T09:52:04.424Z">February 27, 2024</time></a>.</p>
-<p><a href="https://medium.com/@jamestenniswood/twilio-flex-605e8e1ac95e" class="p-canonical">Canonical link</a></p>
-<p>Exported from <a href="https://medium.com">Medium</a> on February 3, 2025.</p>
+<p> </p>
 </footer>
             ]]>
         </content>
@@ -372,16 +367,14 @@
 </figure>
 </div>
 <div class="section-inner sectionLayout--insetColumn">
-<p id="32f9" class="graf graf--p graf-after--figure">The decision was made to close the service down, without migrating the user base, one that the visualization of the end to end experience helped make clear to all, and avoid a lot of wasted resource. Even though it didn’t end up producing a successful product, I am still proud of the teams work in helping to explore the space and deliver a clear expression of the compromise.</p>
+<p id="32f9" class="graf graf--p graf-after--figure">The decision was made to close the service down, without migrating the user base, one that the visualisation of the end to end experience helped make clear to all, and avoid a lot of wasted resource. Even though it didn’t end up producing a successful product, I am still proud of the teams work in helping to explore the space and deliver a clear expression of the compromise.</p>
 <p id="ecee" class="graf graf--p graf-after--p graf--trailing">The process has helped inform the future strategy and also helped inform the development of many design patterns that are being used in new experiences today, so nothing is ever wasted!</p>
 </div>
 </div>
 </section>
 </section>
 <footer>
-<p>By <a href="https://medium.com/@jamestenniswood" class="p-author h-card">James Tenniswood</a> on <a href="https://medium.com/p/24e84d302fa1"><time class="dt-published" datetime="2018-07-05T17:44:16.723Z">July 5, 2018</time></a>.</p>
-<p><a href="https://medium.com/@jamestenniswood/ebay-local-integration-24e84d302fa1" class="p-canonical">Canonical link</a></p>
-<p>Exported from <a href="https://medium.com">Medium</a> on February 3, 2025.</p>
+<p> </p>
 </footer>
             ]]>
         </content>
@@ -393,6 +386,7 @@
         </author>
         <link href="https://jtenniswood.github.io/portfolio/ebay-design-patterns/"/>
         <id>https://jtenniswood.github.io/portfolio/ebay-design-patterns/</id>
+            <category term="eBay"/>
 
         <updated>2018-05-05T15:07:00+01:00</updated>
             <summary>
@@ -444,9 +438,7 @@
 </section>
 </section>
 <footer>
-<p>By <a href="https://medium.com/@jamestenniswood" class="p-author h-card">James Tenniswood</a> on <a href="https://medium.com/p/ab124827c55e"><time class="dt-published" datetime="2018-07-11T09:26:22.911Z">July 11, 2018</time></a>.</p>
-<p><a href="https://medium.com/@jamestenniswood/ebay-design-patterns-ab124827c55e" class="p-canonical">Canonical link</a></p>
-<p>Exported from <a href="https://medium.com">Medium</a> on February 3, 2025.</p>
+<p> </p>
 </footer>
             ]]>
         </content>
@@ -458,6 +450,7 @@
         </author>
         <link href="https://jtenniswood.github.io/portfolio/ebay-for-android/"/>
         <id>https://jtenniswood.github.io/portfolio/ebay-for-android/</id>
+            <category term="eBay"/>
 
         <updated>2017-02-27T15:08:00+00:00</updated>
             <summary>
@@ -487,67 +480,19 @@
 </section>
 </section>
 <footer>
-<p>By <a href="https://medium.com/@jamestenniswood" class="p-author h-card">James Tenniswood</a> on <a href="https://medium.com/p/ad0dbbaa313e"><time class="dt-published" datetime="2017-02-27T05:53:27.000Z">February 27, 2017</time></a>.</p>
-<p><a href="https://medium.com/@jamestenniswood/ebay-for-android-ad0dbbaa313e" class="p-canonical">Canonical link</a></p>
-<p>Exported from <a href="https://medium.com">Medium</a> on February 3, 2025.</p>
+<p> </p>
 </footer>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Circles Social Contacts</title>
-        <author>
-            <name>James Tenniswood</name>
-        </author>
-        <link href="https://jtenniswood.github.io/portfolio/circles-social-contacts/"/>
-        <id>https://jtenniswood.github.io/portfolio/circles-social-contacts/</id>
-
-        <updated>2016-04-04T15:08:00+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Whilst involved in a Google design sprint, we looked at the problem of the fragmentation of social connections, with so many ways to share are communicate, how can you more easily keep up-to-date with your close friends activity? Partnering with Kyle Barber, we developed designs&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <section class="e-content" data-field="body">
-<section class="section section--body section--first section--last">
-<div class="section-divider"><figure class="graf-image"><img loading="lazy"  style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);" src="https://cdn-images-1.medium.com/max/2560/1*Y1DL6L4s0QRZqqyfr3ziug.png" data-image-id="1*Y1DL6L4s0QRZqqyfr3ziug.png" data-width="2000" data-height="1200" data-is-featured="true" data-is-external-image="true"></figure></div>
-<div class="section-content">
-<div class="section-inner sectionLayout--insetColumn">
-<h4 id="7297" class="graf graf--h4 graf-after--h3 graf--subtitle">Whilst involved in a Google design sprint, we looked at the problem of the fragmentation of social connections, with so many ways to share are communicate, how can you more easily keep up-to-date with your close friends activity?</h4>
-<p id="f189" class="graf graf--p graf-after--h4">Partnering with Kyle Barber, we developed designs to explore the idea of a next generation contact manager for your phone, one can understand and organise the people you are most frequently communicating with, using your installed social apps as source providers for aggregation, and creating an experience that provides a snapshot into your friends activities regardless of social network or service.</p>
-</div>
-<div class="section-inner sectionLayout--outsetColumn">
-<figure id="64a4" class="graf graf--figure graf--layoutOutsetCenter graf-after--p"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/1200/1*h05MEuBTUAU6Dax24XSsrw.png" data-image-id="1*h05MEuBTUAU6Dax24XSsrw.png" data-width="2000" data-height="1200" data-is-external-image="true"></figure></figure>
-</div>
-<div class="section-inner sectionLayout--insetColumn">
-<p id="672b" class="graf graf--p graf-after--figure">We wanted to extend the contact hooks beyond calls and text messages, to embrace messenger services like facebook or line, and allow quick links to any service associated with that contact, such as instagram, youtube or linkedin. We also looked at the system hooks that could create a richer experience, from the android share sheet, to daily round ups of activity via notifications, to integration within the phone app, to allow a quick overview of an callers recent activity.</p>
-</div>
-<div class="section-inner sectionLayout--outsetColumn">
-<figure id="9b0c" class="graf graf--figure graf--layoutOutsetCenter graf-after--p"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/1200/1*s6EdyaSYzl3aLPueOkoBOg.png" data-image-id="1*s6EdyaSYzl3aLPueOkoBOg.png" data-width="2000" data-height="1200" data-is-external-image="true"></figure></figure>
-</div>
-<div class="section-inner sectionLayout--insetColumn">
-<p id="0980" class="graf graf--p graf-after--figure graf--trailing">This approach was intended to help people have closer bonds without the pressure of checking multiple services, and alleviate the fear of missing out.</p>
-</div>
-</div>
-</section>
-</section>
-<footer>
-<p>By <a href="https://medium.com/@jamestenniswood" class="p-author h-card">James Tenniswood</a> on <a href="https://medium.com/p/6da94269b44b"><time class="dt-published" datetime="2017-02-28T01:46:30.000Z">February 28, 2017</time></a>.</p>
-<p><a href="https://medium.com/@jamestenniswood/circles-social-contacts-6da94269b44b" class="p-canonical">Canonical link</a></p>
-<p>Exported from <a href="https://medium.com">Medium</a> on February 3, 2025.</p>
-</footer>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Personalisation at eBay</title>
+        <title>eBay Personalisation</title>
         <author>
             <name>James Tenniswood</name>
         </author>
         <link href="https://jtenniswood.github.io/portfolio/personalisation-at-ebay/"/>
         <id>https://jtenniswood.github.io/portfolio/personalisation-at-ebay/</id>
+            <category term="eBay"/>
 
         <updated>2015-11-09T15:09:00+00:00</updated>
             <summary>
@@ -581,11 +526,6 @@
 </div>
 </section>
 </section>
-<footer>
-<p>By <a href="https://medium.com/@jamestenniswood" class="p-author h-card">James Tenniswood</a> on <a href="https://medium.com/p/4fba7fccb493"><time class="dt-published" datetime="2015-11-09T16:45:40.000Z">November 9, 2015</time></a>.</p>
-<p><a href="https://medium.com/@jamestenniswood/ebay-interests-4fba7fccb493" class="p-canonical">Canonical link</a></p>
-<p>Exported from <a href="https://medium.com">Medium</a> on February 3, 2025.</p>
-</footer>
             ]]>
         </content>
     </entry>
@@ -596,6 +536,7 @@
         </author>
         <link href="https://jtenniswood.github.io/portfolio/ebay-shopping-intents/"/>
         <id>https://jtenniswood.github.io/portfolio/ebay-shopping-intents/</id>
+            <category term="eBay"/>
 
         <updated>2015-06-09T15:10:00+01:00</updated>
             <summary>
@@ -607,11 +548,13 @@
             <![CDATA[
                 <section class="e-content" data-field="body">
 <section class="section section--body section--first section--last">
+<div>Shopping on eBay involves quite a bit more searching that other commerce services, due in part to the vast size of the marketplace, the variability of the item condition and the diversity of the sellers available.</div>
+<div> </div>
+<div>We observed that with users spanning multiple platforms during the length of each shopping mission, continuation from where they left was much harder than it needed to be.</div>
+<div> </div>
 <div class="section-divider"><figure class="graf-image"><img loading="lazy"  style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);" src="https://cdn-images-1.medium.com/max/2560/1*xpEEjhZpDrcRAJqM-n9NBg.jpeg" data-image-id="1*xpEEjhZpDrcRAJqM-n9NBg.jpeg" data-width="2000" data-height="1200" data-is-external-image="true"></figure></div>
 <div class="section-content">
 <div class="section-inner sectionLayout--insetColumn">
-<p id="f5fd" class="graf graf--p graf-after--h3">Shopping on eBay involves quite a bit more searching that other commerce services, due in part to the vast size of the marketplace, the variability of the item condition and the diversity of the sellers available.</p>
-<p id="5011" class="graf graf--p graf-after--p">We observed that with users spanning multiple platforms during the length of each shopping mission, continuation from where they left was much harder than it needed to be.</p>
 <p id="625a" class="graf graf--p graf-after--p">The approach we took was to evolve a combination of the recently viewed items list, recent searches and our rich merchandise services. We asked the search science team to work to cluster groups of items around common groups, in order to make the options more approachable.</p>
 <p id="483d" class="graf graf--p graf-after--p">The result is the first generation of a new approach to personal shopping, allowing us to help users down the their journey, summarize different sub-themes within each journey and ultimately help shortlist, compare and buy.</p>
 <p id="8d99" class="graf graf--p graf-after--p">We designed the experience to work seamlessly across multi screen environments, so you can pick up where you left off regardless of device.</p>
@@ -621,8 +564,53 @@
 </section>
 </section>
 <footer>
-<p>By <a href="https://medium.com/@jamestenniswood" class="p-author h-card">James Tenniswood</a> on <a href="https://medium.com/p/ed0f542cc81e"><time class="dt-published" datetime="2015-06-09T15:37:38.000Z">June 9, 2015</time></a>.</p>
-<p><a href="https://medium.com/@jamestenniswood/ebay-shopping-intents-ed0f542cc81e" class="p-canonical">Canonical link</a></p>
+<p> </p>
+</footer>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>eBay View Item Experience</title>
+        <author>
+            <name>James Tenniswood</name>
+        </author>
+        <link href="https://jtenniswood.github.io/portfolio/ebay-view-item-experience/"/>
+        <id>https://jtenniswood.github.io/portfolio/ebay-view-item-experience/</id>
+            <category term="eBay"/>
+
+        <updated>2015-03-01T15:08:00+00:00</updated>
+            <summary>
+                <![CDATA[
+                    This is a concept idea for overhauling the current view item experience, we wanted to make the buyers feel more connected with the products they were viewing, so we used a mobile approach of letting the images do the talking and presenting the product details&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <section class="e-content" data-field="body">
+<section class="section section--body section--first section--last">
+<div class="section-divider"><figure class="graf-image"><img loading="lazy"  style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);" src="https://cdn-images-1.medium.com/max/2560/1*MPibAbVAIBvteAkYcdxkPg.png" data-image-id="1*MPibAbVAIBvteAkYcdxkPg.png" data-width="2000" data-height="1200" data-is-external-image="true"></figure></div>
+<div class="section-content">
+<div class="section-inner sectionLayout--insetColumn">
+<h4 id="f84b" class="graf graf--h4 graf-after--h3 graf--subtitle">This is a concept idea for overhauling the current view item experience, we wanted to make the buyers feel more connected with the products they were viewing, so we used a mobile approach of letting the images do the talking and presenting the product details as highlights.</h4>
+<p id="789c" class="graf graf--p graf-after--h4">The idea is that if you present images as the hero, its the area where sellers will invest (rather than the custom html templates of today, which don’t scale to mobile) and the buyers will gets a genuine connection with an item, far greater than a generic product image.</p>
+<p id="8133" class="graf graf--p graf-after--p">The images first approach also help address trust issues, with greater detail up front, the buyer can understand the condition and any defects the item might have, reducing issues on delivery.</p>
+</div>
+<div class="section-inner sectionLayout--outsetColumn">
+<figure id="6cd8" class="graf graf--figure graf--layoutOutsetCenter graf-after--p"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/1200/1*rpuy21NnEOipcEB22VdlSw.png" data-image-id="1*rpuy21NnEOipcEB22VdlSw.png" data-width="2000" data-height="8998" data-is-external-image="true"></figure></figure>
+</div>
+<div class="section-inner sectionLayout--insetColumn">
+<p id="9993" class="graf graf--p graf-after--figure">We also developed the idea that every product is a starting point, regardless of if you’re just started a search on eBay, come in via a google search or entered via a post on social media.</p>
+<p id="187f" class="graf graf--p graf-after--p">Each path provides a context to discover related products, brands and groups within eBay, supporting the users need to see the range and judge the right product for their needs.</p>
+</div>
+<div class="section-inner sectionLayout--outsetColumn">
+<figure id="c702" class="graf graf--figure graf--layoutOutsetCenter graf-after--p graf--trailing"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/1200/1*s0BKV2mD_jG6znj-PQCpAA.png" data-image-id="1*s0BKV2mD_jG6znj-PQCpAA.png" data-width="1606" data-height="3200" data-is-external-image="true"></figure></figure>
+</div>
+</div>
+</section>
+</section>
+<footer>
+<p>By <a href="https://medium.com/@jamestenniswood" class="p-author h-card">James Tenniswood</a> on <a href="https://medium.com/p/29066f3f2d82"><time class="dt-published" datetime="2017-02-28T00:41:17.000Z">February 28, 2017</time></a>.</p>
+<p><a href="https://medium.com/@jamestenniswood/ebay-view-item-experience-29066f3f2d82" class="p-canonical">Canonical link</a></p>
 <p>Exported from <a href="https://medium.com">Medium</a> on February 3, 2025.</p>
 </footer>
             ]]>
