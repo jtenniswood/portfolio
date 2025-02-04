@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "James Tenniswood",
+    "description": "",
+    "home_page_url": "https://jtenniswood.github.io/portfolio",
+    "feed_url": "https://jtenniswood.github.io/portfolio/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "James Tenniswood"
+    },
+    "items": [
+    ]
+}
