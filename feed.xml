@@ -3,7 +3,7 @@
     <title>James Tenniswood</title>
     <link href="https://jtenniswood.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://jtenniswood.github.io/portfolio" />
-    <updated>2025-02-04T21:59:28+00:00</updated>
+    <updated>2025-02-04T22:05:46+00:00</updated>
     <author>
         <name>James Tenniswood</name>
     </author>
@@ -285,27 +285,24 @@
         </author>
         <link href="https://jtenniswood.github.io/portfolio/ebay-local-integration/"/>
         <id>https://jtenniswood.github.io/portfolio/ebay-local-integration/</id>
+        <media:content url="https://jtenniswood.github.io/portfolio/media/posts/10/local1.webp" medium="image" />
             <category term="eBay"/>
             <category term="Ux"/>
 
         <updated>2018-07-06T15:07:00+01:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://jtenniswood.github.io/portfolio/media/posts/10/local1.webp" alt="" />
                     This project was one of discovery through execution, in a more usual path, rather than create something new, we were trying on find a balanced solution to an existing business problem, trying to answer the question, is it possible to&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://jtenniswood.github.io/portfolio/media/posts/10/local1.webp" class="type:primaryImage" alt="" /></p>
                 <section class="e-content" data-field="body">
 <section class="section section--body section--first section--last">
-<div class="section-divider"> </div>
+<div class="section-divider"><span style="color: var(--headings-color); font-family: var(--font-base); font-size: 1.26562em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);">This project was one of discovery through execution, in a more usual path, rather than create something new, we were trying on find a balanced solution to an existing business problem, trying to answer the question, is it possible to integrate a separate marketplace service into the core eBay experience without impacting the core brand and consumer buying patterns.</span></div>
 <div class="section-content">
-<div class="section-inner sectionLayout--insetColumn">
-<h4 id="4701" class="graf graf--p graf-after--h3">This project was one of discovery through execution, in a more usual path, rather than create something new, we were trying on find a balanced solution to an existing business problem, trying to answer the question, is it possible to integrate a separate marketplace service into the core eBay experience without impacting the core brand and consumer buying patterns.</h4>
-</div>
-<div class="section-inner sectionLayout--fullWidth">
-<figure id="837b" class="graf graf--figure graf--layoutFillWidth graf-after--p"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/2560/1*Gr3IS_emzg4OpcmwS5qXpA.jpeg" data-image-id="1*Gr3IS_emzg4OpcmwS5qXpA.jpeg" data-width="2000" data-height="1200" data-is-external-image="true"></figure></figure>
-</div>
 <div class="section-inner sectionLayout--insetColumn">
 <h3 id="3237" class="graf graf--h3 graf-after--figure">Brief</h3>
 <p id="c2b8" class="graf graf--p graf-after--h3">The challenge we faced was that eBay had purchased a business a few years beforehand, run it as a stand-alone organization within the Classified group, but they had recently been moved into the core eBay selling group, to see if it was possible to extend and improve on the existing local selling offering.</p>
@@ -313,7 +310,7 @@
 <h3 id="80c0" class="graf graf--h3 graf-after--p">Challenges</h3>
 <p id="0cd6" class="graf graf--p graf-after--h3">Within the eBay experience it isn’t easy to narrow by distance, all types of items (shipped as well as local pickup only) are mixed into the result, the onus is on the user to filter to achieve the experience that completing apps, which means for buyers shopping just for local isn’t hard to access, or even know the feature exists!</p>
 <p id="51ae" class="graf graf--p graf-after--p">Selling on eBay can get costly, time-consuming, and involves the complexities of shipping cost estimations (where most users mess up by underestimating the cost of delivery). Close5 selling experience was quick to complete and low impact in terms of item details required to enter, sellers were more likely to list this way for low value, used and bulky items.</p>
-<figure id="86d7" class="graf graf--figure graf-after--p"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*R0HFo3dXB2RnvPxFXIQ__g.jpeg" data-image-id="1*R0HFo3dXB2RnvPxFXIQ__g.jpeg" data-width="995" data-height="658" data-is-external-image="true"></figure>
+<figure id="86d7" class="graf graf--figure graf-after--p"><figure class="post__image post__image--wide"><img loading="lazy"  src="https://jtenniswood.github.io/portfolio/media/posts/10/local2.webp" width="995" height="658" data-image-id="1*R0HFo3dXB2RnvPxFXIQ__g.jpeg" data-width="995" data-height="658" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://jtenniswood.github.io/portfolio/media/posts/10/responsive/local2-xs.webp 640w ,https://jtenniswood.github.io/portfolio/media/posts/10/responsive/local2-sm.webp 768w ,https://jtenniswood.github.io/portfolio/media/posts/10/responsive/local2-md.webp 1024w ,https://jtenniswood.github.io/portfolio/media/posts/10/responsive/local2-lg.webp 1366w ,https://jtenniswood.github.io/portfolio/media/posts/10/responsive/local2-xl.webp 1600w ,https://jtenniswood.github.io/portfolio/media/posts/10/responsive/local2-2xl.webp 1920w"></figure>
 <figcaption class="imageCaption">Integration flow planning</figcaption>
 </figure>
 <p id="695c" class="graf graf--p graf-after--figure">Using the Close5 experience, users were able to have an instant chat with the seller to find out additional information and discuss terms, compared to eBay’s messaging model which is based around the email metaphor and feels like much more of a lag between question and answer between interested parties, so the interaction was perceived as less friction (although the less information the seller entered in the listing part of the process, the more basic questions the buyers would create, which in itself was a cause of friction).</p>
@@ -321,7 +318,7 @@
 <p id="0665" class="graf graf--p graf-after--h3">We looked at a number of possible paths, the main ones were full integration, which involved migrating accounts and infrastructure to the eBay platform. The required work to pull this off to create the optimal experience was huge and would have taken so long and been so expensive, it was unfeasible and unrealistic to undertake.</p>
 </div>
 <div class="section-inner sectionLayout--fullWidth">
-<figure id="693f" class="graf graf--figure graf--layoutFillWidth graf-after--p"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/2560/1*aZtcWKAbt4B_sEw7RgYOEw.png" data-image-id="1*aZtcWKAbt4B_sEw7RgYOEw.png" data-width="6478" data-height="5028" data-is-external-image="true"></figure>
+<figure id="693f" class="graf graf--figure graf--layoutFillWidth graf-after--p"><figure class="post__image post__image--full"><img loading="lazy"  src="https://jtenniswood.github.io/portfolio/media/posts/10/local3.webp" width="4800" height="3726" data-image-id="1*aZtcWKAbt4B_sEw7RgYOEw.png" data-width="6478" data-height="5028" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://jtenniswood.github.io/portfolio/media/posts/10/responsive/local3-xs.webp 640w ,https://jtenniswood.github.io/portfolio/media/posts/10/responsive/local3-sm.webp 768w ,https://jtenniswood.github.io/portfolio/media/posts/10/responsive/local3-md.webp 1024w ,https://jtenniswood.github.io/portfolio/media/posts/10/responsive/local3-lg.webp 1366w ,https://jtenniswood.github.io/portfolio/media/posts/10/responsive/local3-xl.webp 1600w ,https://jtenniswood.github.io/portfolio/media/posts/10/responsive/local3-2xl.webp 1920w"></figure>
 <figcaption class="imageCaption">App page flow mock</figcaption>
 </figure>
 </div>
@@ -333,7 +330,7 @@
 <p id="eed9" class="graf graf--p graf-after--p">Every time there was a technical compromise the complexity of even simple user actions increased. For example, because the listings aren’t integrated as standard listings, they wouldn’t show up from the global search, only from within the local section (greatly reducing the reach). Same issues with account management, items from local wouldn’t be listed in the existing tools for shortlisting and purchase history (which would just confuse eBay and Close5 customers).</p>
 </div>
 <div class="section-inner sectionLayout--outsetColumn">
-<figure id="a7d4" class="graf graf--figure graf--layoutOutsetCenter graf-after--p"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/1200/1*Xvco-3MGoz72qxC45fECeQ.png" data-image-id="1*Xvco-3MGoz72qxC45fECeQ.png" data-width="2840" data-height="1678" data-is-external-image="true"></figure>
+<figure id="a7d4" class="graf graf--figure graf--layoutOutsetCenter graf-after--p"><figure class="post__image post__image--wide"><img loading="lazy"  src="https://jtenniswood.github.io/portfolio/media/posts/10/local4.webp" width="2000" height="1182" data-image-id="1*Xvco-3MGoz72qxC45fECeQ.png" data-width="2840" data-height="1678" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://jtenniswood.github.io/portfolio/media/posts/10/responsive/local4-xs.webp 640w ,https://jtenniswood.github.io/portfolio/media/posts/10/responsive/local4-sm.webp 768w ,https://jtenniswood.github.io/portfolio/media/posts/10/responsive/local4-md.webp 1024w ,https://jtenniswood.github.io/portfolio/media/posts/10/responsive/local4-lg.webp 1366w ,https://jtenniswood.github.io/portfolio/media/posts/10/responsive/local4-xl.webp 1600w ,https://jtenniswood.github.io/portfolio/media/posts/10/responsive/local4-2xl.webp 1920w"></figure>
 <figcaption class="imageCaption">Feature guidance to enable a smoother onboarding process</figcaption>
 </figure>
 </div>
@@ -342,7 +339,7 @@
 <p id="b124" class="graf graf--p graf-after--p">Ultimately this felt like a business problem rather than a user problem, the value for the customer was so eroded by poor integration, that we would end up churning all the existing users we were trying to maintain and grow.</p>
 </div>
 <div class="section-inner sectionLayout--outsetColumn">
-<figure id="309d" class="graf graf--figure graf--layoutOutsetCenter graf-after--p"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/1200/1*CxizwoCPWpzrUqkkqgrl3Q.png" data-image-id="1*CxizwoCPWpzrUqkkqgrl3Q.png" data-width="2840" data-height="4012" data-is-external-image="true"></figure>
+<figure id="309d" class="graf graf--figure graf--layoutOutsetCenter graf-after--p"><figure class="post__image post__image--wide"><img loading="lazy"  src="https://jtenniswood.github.io/portfolio/media/posts/10/local4-2.webp" width="2000" height="1182" data-image-id="1*CxizwoCPWpzrUqkkqgrl3Q.png" data-width="2840" data-height="4012" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://jtenniswood.github.io/portfolio/media/posts/10/responsive/local4-2-xs.webp 640w ,https://jtenniswood.github.io/portfolio/media/posts/10/responsive/local4-2-sm.webp 768w ,https://jtenniswood.github.io/portfolio/media/posts/10/responsive/local4-2-md.webp 1024w ,https://jtenniswood.github.io/portfolio/media/posts/10/responsive/local4-2-lg.webp 1366w ,https://jtenniswood.github.io/portfolio/media/posts/10/responsive/local4-2-xl.webp 1600w ,https://jtenniswood.github.io/portfolio/media/posts/10/responsive/local4-2-2xl.webp 1920w"></figure>
 <figcaption class="imageCaption">Alternative approaches to mixing vs disambiguating the local results set.</figcaption>
 </figure>
 </div>
@@ -354,7 +351,7 @@
 </section>
 </section>
 <footer>
-<p> </p>
+<figure class="post__image"><img loading="lazy"  src="https://jtenniswood.github.io/portfolio/media/posts/10/local5.webp" alt="" width="2000" height="2825" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://jtenniswood.github.io/portfolio/media/posts/10/responsive/local5-xs.webp 640w ,https://jtenniswood.github.io/portfolio/media/posts/10/responsive/local5-sm.webp 768w ,https://jtenniswood.github.io/portfolio/media/posts/10/responsive/local5-md.webp 1024w ,https://jtenniswood.github.io/portfolio/media/posts/10/responsive/local5-lg.webp 1366w ,https://jtenniswood.github.io/portfolio/media/posts/10/responsive/local5-xl.webp 1600w ,https://jtenniswood.github.io/portfolio/media/posts/10/responsive/local5-2xl.webp 1920w"></figure>
 </footer>
             ]]>
         </content>
