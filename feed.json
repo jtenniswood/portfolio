@@ -20,10 +20,12 @@
                 "name": "James Tenniswood"
             },
             "tags": [
+                   "Ux",
+                   "User Research",
                    "Algolia"
             ],
             "date_published": "2024-01-17T15:04:00+00:00",
-            "date_modified": "2025-02-04T16:42:26+00:00"
+            "date_modified": "2025-02-04T17:25:25+00:00"
         },
         {
             "id": "https://jtenniswood.github.io/portfolio/algolia-events-setup-3/",
@@ -35,10 +37,11 @@
                 "name": "James Tenniswood"
             },
             "tags": [
+                   "Ux",
                    "Algolia"
             ],
             "date_published": "2023-10-04T15:01:00+01:00",
-            "date_modified": "2025-02-04T16:42:14+00:00"
+            "date_modified": "2025-02-04T17:25:42+00:00"
         },
         {
             "id": "https://jtenniswood.github.io/portfolio/algolia-crawler-management/",
@@ -50,10 +53,11 @@
                 "name": "James Tenniswood"
             },
             "tags": [
+                   "Ux",
                    "Algolia"
             ],
             "date_published": "2022-02-04T15:05:00+00:00",
-            "date_modified": "2025-02-04T16:41:38+00:00"
+            "date_modified": "2025-02-04T17:25:19+00:00"
         },
         {
             "id": "https://jtenniswood.github.io/portfolio/twilio-flex/",
@@ -65,10 +69,12 @@
                 "name": "James Tenniswood"
             },
             "tags": [
+                   "Ux",
+                   "User Research",
                    "Twilio"
             ],
             "date_published": "2021-07-14T15:06:00+01:00",
-            "date_modified": "2025-02-04T16:41:30+00:00"
+            "date_modified": "2025-02-04T17:25:10+00:00"
         },
         {
             "id": "https://jtenniswood.github.io/portfolio/ebay-local-integration/",
@@ -80,10 +86,11 @@
                 "name": "James Tenniswood"
             },
             "tags": [
-                   "eBay"
+                   "eBay",
+                   "Ux"
             ],
             "date_published": "2018-07-06T15:07:00+01:00",
-            "date_modified": "2025-02-04T16:41:16+00:00"
+            "date_modified": "2025-02-04T17:23:22+00:00"
         },
         {
             "id": "https://jtenniswood.github.io/portfolio/ebay-design-patterns/",
@@ -95,10 +102,12 @@
                 "name": "James Tenniswood"
             },
             "tags": [
-                   "eBay"
+                   "eBay",
+                   "Ux",
+                   "Design Systems"
             ],
             "date_published": "2018-05-05T15:07:00+01:00",
-            "date_modified": "2025-02-04T16:40:54+00:00"
+            "date_modified": "2025-02-04T17:24:00+00:00"
         },
         {
             "id": "https://jtenniswood.github.io/portfolio/ebay-for-android/",
@@ -110,10 +119,12 @@
                 "name": "James Tenniswood"
             },
             "tags": [
-                   "eBay"
+                   "eBay",
+                   "Ux",
+                   "Mobile"
             ],
             "date_published": "2017-02-27T15:08:00+00:00",
-            "date_modified": "2025-02-04T16:40:45+00:00"
+            "date_modified": "2025-02-04T17:23:00+00:00"
         },
         {
             "id": "https://jtenniswood.github.io/portfolio/personalisation-at-ebay/",
@@ -125,10 +136,11 @@
                 "name": "James Tenniswood"
             },
             "tags": [
-                   "eBay"
+                   "eBay",
+                   "Ux"
             ],
             "date_published": "2015-11-09T15:09:00+00:00",
-            "date_modified": "2025-02-04T16:40:36+00:00"
+            "date_modified": "2025-02-04T17:22:48+00:00"
         },
         {
             "id": "https://jtenniswood.github.io/portfolio/ebay-shopping-intents/",
@@ -140,10 +152,11 @@
                 "name": "James Tenniswood"
             },
             "tags": [
-                   "eBay"
+                   "eBay",
+                   "Ux"
             ],
             "date_published": "2015-06-09T15:10:00+01:00",
-            "date_modified": "2025-02-04T16:43:54+00:00"
+            "date_modified": "2025-02-04T17:22:32+00:00"
         },
         {
             "id": "https://jtenniswood.github.io/portfolio/ebay-view-item-experience/",
@@ -155,10 +168,11 @@
                 "name": "James Tenniswood"
             },
             "tags": [
-                   "eBay"
+                   "eBay",
+                   "Ux"
             ],
             "date_published": "2015-03-01T15:08:00+00:00",
-            "date_modified": "2025-02-04T16:44:22+00:00"
+            "date_modified": "2025-02-04T17:23:15+00:00"
         }
     ]
 }

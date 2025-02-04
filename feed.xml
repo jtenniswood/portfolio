@@ -3,7 +3,7 @@
     <title>James Tenniswood</title>
     <link href="https://jtenniswood.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://jtenniswood.github.io/portfolio" />
-    <updated>2025-02-04T16:44:22+00:00</updated>
+    <updated>2025-02-04T17:25:42+00:00</updated>
     <author>
         <name>James Tenniswood</name>
     </author>
@@ -17,6 +17,8 @@
         <link href="https://jtenniswood.github.io/portfolio/generative-commerce/"/>
         <id>https://jtenniswood.github.io/portfolio/generative-commerce/</id>
         <media:content url="https://jtenniswood.github.io/portfolio/media/posts/6/gencom1.webp" medium="image" />
+            <category term="Ux"/>
+            <category term="User Research"/>
             <category term="Algolia"/>
 
         <updated>2024-01-17T15:04:00+00:00</updated>
@@ -91,6 +93,7 @@
         </author>
         <link href="https://jtenniswood.github.io/portfolio/algolia-events-setup-3/"/>
         <id>https://jtenniswood.github.io/portfolio/algolia-events-setup-3/</id>
+            <category term="Ux"/>
             <category term="Algolia"/>
 
         <updated>2023-10-04T15:01:00+01:00</updated>
@@ -154,6 +157,7 @@
         </author>
         <link href="https://jtenniswood.github.io/portfolio/algolia-crawler-management/"/>
         <id>https://jtenniswood.github.io/portfolio/algolia-crawler-management/</id>
+            <category term="Ux"/>
             <category term="Algolia"/>
 
         <updated>2022-02-04T15:05:00+00:00</updated>
@@ -218,6 +222,8 @@
         </author>
         <link href="https://jtenniswood.github.io/portfolio/twilio-flex/"/>
         <id>https://jtenniswood.github.io/portfolio/twilio-flex/</id>
+            <category term="Ux"/>
+            <category term="User Research"/>
             <category term="Twilio"/>
 
         <updated>2021-07-14T15:06:00+01:00</updated>
@@ -307,6 +313,7 @@
         <link href="https://jtenniswood.github.io/portfolio/ebay-local-integration/"/>
         <id>https://jtenniswood.github.io/portfolio/ebay-local-integration/</id>
             <category term="eBay"/>
+            <category term="Ux"/>
 
         <updated>2018-07-06T15:07:00+01:00</updated>
             <summary>
@@ -387,6 +394,8 @@
         <link href="https://jtenniswood.github.io/portfolio/ebay-design-patterns/"/>
         <id>https://jtenniswood.github.io/portfolio/ebay-design-patterns/</id>
             <category term="eBay"/>
+            <category term="Ux"/>
+            <category term="Design Systems"/>
 
         <updated>2018-05-05T15:07:00+01:00</updated>
             <summary>
@@ -451,6 +460,8 @@
         <link href="https://jtenniswood.github.io/portfolio/ebay-for-android/"/>
         <id>https://jtenniswood.github.io/portfolio/ebay-for-android/</id>
             <category term="eBay"/>
+            <category term="Ux"/>
+            <category term="Mobile"/>
 
         <updated>2017-02-27T15:08:00+00:00</updated>
             <summary>
@@ -493,6 +504,7 @@
         <link href="https://jtenniswood.github.io/portfolio/personalisation-at-ebay/"/>
         <id>https://jtenniswood.github.io/portfolio/personalisation-at-ebay/</id>
             <category term="eBay"/>
+            <category term="Ux"/>
 
         <updated>2015-11-09T15:09:00+00:00</updated>
             <summary>
@@ -537,6 +549,7 @@
         <link href="https://jtenniswood.github.io/portfolio/ebay-shopping-intents/"/>
         <id>https://jtenniswood.github.io/portfolio/ebay-shopping-intents/</id>
             <category term="eBay"/>
+            <category term="Ux"/>
 
         <updated>2015-06-09T15:10:00+01:00</updated>
             <summary>
@@ -577,6 +590,7 @@
         <link href="https://jtenniswood.github.io/portfolio/ebay-view-item-experience/"/>
         <id>https://jtenniswood.github.io/portfolio/ebay-view-item-experience/</id>
             <category term="eBay"/>
+            <category term="Ux"/>
 
         <updated>2015-03-01T15:08:00+00:00</updated>
             <summary>
