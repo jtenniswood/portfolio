@@ -3,7 +3,7 @@
     <title>James Tenniswood</title>
     <link href="https://jtenniswood.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://jtenniswood.github.io/portfolio" />
-    <updated>2025-02-04T20:44:54+00:00</updated>
+    <updated>2025-02-04T20:58:18+00:00</updated>
     <author>
         <name>James Tenniswood</name>
     </author>
@@ -93,20 +93,23 @@
         </author>
         <link href="https://jtenniswood.github.io/portfolio/algolia-events/"/>
         <id>https://jtenniswood.github.io/portfolio/algolia-events/</id>
+        <media:content url="https://jtenniswood.github.io/portfolio/media/posts/5/Setup-2.png" medium="image" />
             <category term="Ux"/>
             <category term="Algolia"/>
 
         <updated>2023-10-04T15:01:00+01:00</updated>
             <summary>
                 <![CDATA[
-                    Our team was challenged to create a seamless events monitoring experience, where customers can understand the health of their setup at a glance, and continue their path to enable Algolia services that boost their business performance. Why is this important?&hellip;
+                        <img src="https://jtenniswood.github.io/portfolio/media/posts/5/Setup-2.png" alt="User flow to understand the customers use case" />
+                    Our team was challenged to create a seamless events monitoring experience, where customers can understand the health of their setup at a glance, and continue their path to enable Algolia services that boost their business performance. Tracking end customer events&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://jtenniswood.github.io/portfolio/media/posts/5/Setup-2.png" class="type:primaryImage" alt="User flow to understand the customers use case" /></p>
                 <section class="e-content" data-field="body">
 <section class="section section--body section--first section--last">
-<h4 class="section-divider"><span style="color: var(--headings-color); font-family: var(--font-base); font-size: 1.26562em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);">Our team was challenged to create a seamless events monitoring experience, where customers can understand the health of their setup at a glance, and continue their path to enable Algolia services that boost their business performance.</span></h4>
+<p class="section-divider"><span style="color: var(--headings-color); font-family: var(--font-base); font-size: 1.26562em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);">Our team was challenged to create a seamless events monitoring experience, where customers can understand the health of their setup at a glance, and continue their path to enable Algolia services that boost their business performance.</span></p>
 <div class="section-content">
 <div class="section-inner sectionLayout--insetColumn">
 <h6 id="a61d" class="graf graf--h4 graf-after--h4">Why is this important?</h6>
@@ -118,31 +121,21 @@
 <li id="ab98" class="graf graf--li graf-after--li">Errors should be framed their impact to the services they power</li>
 </ul>
 </div>
-<div class="section-inner sectionLayout--outsetColumn">
-<figure id="fd5c" class="graf graf--figure graf--layoutOutsetCenter graf-after--li"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/1200/1*pG2LngLeVUnNfzUvWXvTEg.png" data-image-id="1*pG2LngLeVUnNfzUvWXvTEg.png" data-width="2884" data-height="2208" data-is-external-image="true"></figure>
-<figcaption class="imageCaption">User flow to understand the customers use case</figcaption>
-</figure>
-</div>
+<div class="section-inner sectionLayout--outsetColumn"> </div>
 <div class="section-inner sectionLayout--insetColumn">
-<figure id="0299" class="graf graf--figure graf-after--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*seJT10aXD1kG-l1o0ao-UA.png" data-image-id="1*seJT10aXD1kG-l1o0ao-UA.png" data-width="2884" data-height="2058" data-is-external-image="true"></figure>
-<figcaption class="imageCaption">Flow to guide customers to use case specific advice</figcaption>
-</figure>
+<figure id="0299" class="graf graf--figure graf-after--figure"><figure class="post__image post__image--wide"><img loading="lazy"  src="https://jtenniswood.github.io/portfolio/media/posts/5/Setup-5.png" alt="Flow to guide customers to use case specific advice" width="2884" height="2058" data-image-id="1*seJT10aXD1kG-l1o0ao-UA.png" data-width="2884" data-height="2058" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://jtenniswood.github.io/portfolio/media/posts/5/responsive/Setup-5-xs.png 640w ,https://jtenniswood.github.io/portfolio/media/posts/5/responsive/Setup-5-sm.png 768w ,https://jtenniswood.github.io/portfolio/media/posts/5/responsive/Setup-5-md.png 1024w ,https://jtenniswood.github.io/portfolio/media/posts/5/responsive/Setup-5-lg.png 1366w ,https://jtenniswood.github.io/portfolio/media/posts/5/responsive/Setup-5-xl.png 1600w ,https://jtenniswood.github.io/portfolio/media/posts/5/responsive/Setup-5-2xl.png 1920w"></figure></figure>
 <p id="91c1" class="graf graf--p graf-after--figure">Event configuration and management serve as the means to achieve this goal, rather than the end objective. Monitoring the health of events will be done by both technical experts and business managers.</p>
 </div>
 <div class="section-inner sectionLayout--outsetColumn">
-<figure id="daf9" class="graf graf--figure graf--layoutOutsetCenter graf-after--p"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/1200/1*T4HU3t_Ubh1utxtq11VNKA.png" data-image-id="1*T4HU3t_Ubh1utxtq11VNKA.png" data-width="2930" data-height="2198" data-is-featured="true" data-is-external-image="true"></figure>
-<figcaption class="imageCaption">Events health overview</figcaption>
-</figure>
+<figure id="daf9" class="graf graf--figure graf--layoutOutsetCenter graf-after--p"><figure class="post__image post__image--wide"><img loading="lazy"  src="https://jtenniswood.github.io/portfolio/media/posts/5/Hub.png" alt="Events health overview" width="2930" height="2198" data-image-id="1*T4HU3t_Ubh1utxtq11VNKA.png" data-width="2930" data-height="2198" data-is-featured="true" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://jtenniswood.github.io/portfolio/media/posts/5/responsive/Hub-xs.png 640w ,https://jtenniswood.github.io/portfolio/media/posts/5/responsive/Hub-sm.png 768w ,https://jtenniswood.github.io/portfolio/media/posts/5/responsive/Hub-md.png 1024w ,https://jtenniswood.github.io/portfolio/media/posts/5/responsive/Hub-lg.png 1366w ,https://jtenniswood.github.io/portfolio/media/posts/5/responsive/Hub-xl.png 1600w ,https://jtenniswood.github.io/portfolio/media/posts/5/responsive/Hub-2xl.png 1920w"></figure></figure>
 </div>
 <div class="section-inner sectionLayout--insetColumn">
-<figure id="be13" class="graf graf--figure graf-after--figure"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/800/1*ksv8K8m1P6AcH2wKnE70wg.png" data-image-id="1*ksv8K8m1P6AcH2wKnE70wg.png" data-width="2880" data-height="2790" data-is-external-image="true"></figure>
-<figcaption class="imageCaption">Events health ingest overview</figcaption>
-</figure>
+<figure id="be13" class="graf graf--figure graf-after--figure"><figure class="post__image post__image--wide"><img loading="lazy"  src="https://jtenniswood.github.io/portfolio/media/posts/5/Connector.png" alt="Events health ingest overview" width="2880" height="2790" data-image-id="1*ksv8K8m1P6AcH2wKnE70wg.png" data-width="2880" data-height="2790" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://jtenniswood.github.io/portfolio/media/posts/5/responsive/Connector-xs.png 640w ,https://jtenniswood.github.io/portfolio/media/posts/5/responsive/Connector-sm.png 768w ,https://jtenniswood.github.io/portfolio/media/posts/5/responsive/Connector-md.png 1024w ,https://jtenniswood.github.io/portfolio/media/posts/5/responsive/Connector-lg.png 1366w ,https://jtenniswood.github.io/portfolio/media/posts/5/responsive/Connector-xl.png 1600w ,https://jtenniswood.github.io/portfolio/media/posts/5/responsive/Connector-2xl.png 1920w"></figure></figure>
 <p id="a078" class="graf graf--p graf-after--figure">Defining the use journey through setup, and how to prioritise customer issues across their setup.</p>
 </div>
 <div class="section-inner sectionLayout--outsetColumn">
-<figure id="b106" class="graf graf--figure graf--layoutOutsetCenter graf-after--p"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/1200/1*OJrwuf--ToebaqLYfjlAVQ.png" data-image-id="1*OJrwuf--ToebaqLYfjlAVQ.png" data-width="3802" data-height="1907" data-is-external-image="true"></figure></figure>
-<figure id="1941" class="graf graf--figure graf--layoutOutsetCenter graf-after--figure graf--trailing"><figure class="graf-image"><img loading="lazy"  src="https://cdn-images-1.medium.com/max/1200/1*VUlRnTIwOG8e6LynByl4fQ.png" data-image-id="1*VUlRnTIwOG8e6LynByl4fQ.png" data-width="4026" data-height="2027" data-is-external-image="true"></figure></figure>
+<figure id="b106" class="graf graf--figure graf--layoutOutsetCenter graf-after--p"><figure class="post__image post__image--wide"><img loading="lazy"  src="https://jtenniswood.github.io/portfolio/media/posts/5/User-Journey.png" alt="Event setup flow" width="3802" height="1907" data-image-id="1*OJrwuf--ToebaqLYfjlAVQ.png" data-width="3802" data-height="1907" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://jtenniswood.github.io/portfolio/media/posts/5/responsive/User-Journey-xs.png 640w ,https://jtenniswood.github.io/portfolio/media/posts/5/responsive/User-Journey-sm.png 768w ,https://jtenniswood.github.io/portfolio/media/posts/5/responsive/User-Journey-md.png 1024w ,https://jtenniswood.github.io/portfolio/media/posts/5/responsive/User-Journey-lg.png 1366w ,https://jtenniswood.github.io/portfolio/media/posts/5/responsive/User-Journey-xl.png 1600w ,https://jtenniswood.github.io/portfolio/media/posts/5/responsive/User-Journey-2xl.png 1920w"></figure></figure>
+<figure id="1941" class="graf graf--figure graf--layoutOutsetCenter graf-after--figure graf--trailing"><figure class="post__image post__image--wide"><img loading="lazy"  src="https://jtenniswood.github.io/portfolio/media/posts/5/Error-Handling.png" alt="Event error check flow" width="4026" height="2027" data-image-id="1*VUlRnTIwOG8e6LynByl4fQ.png" data-width="4026" data-height="2027" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://jtenniswood.github.io/portfolio/media/posts/5/responsive/Error-Handling-xs.png 640w ,https://jtenniswood.github.io/portfolio/media/posts/5/responsive/Error-Handling-sm.png 768w ,https://jtenniswood.github.io/portfolio/media/posts/5/responsive/Error-Handling-md.png 1024w ,https://jtenniswood.github.io/portfolio/media/posts/5/responsive/Error-Handling-lg.png 1366w ,https://jtenniswood.github.io/portfolio/media/posts/5/responsive/Error-Handling-xl.png 1600w ,https://jtenniswood.github.io/portfolio/media/posts/5/responsive/Error-Handling-2xl.png 1920w"></figure></figure>
 </div>
 </div>
 </section>

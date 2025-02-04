@@ -10,7 +10,31 @@
 </url>
 <url>
 <loc>https://jtenniswood.github.io/portfolio/algolia-events/</loc>
-<lastmod>2025-02-04T20:44:54+00:00</lastmod>
+<lastmod>2025-02-04T20:58:18+00:00</lastmod>
+<image:image>
+<image:loc>https://jtenniswood.github.io/portfolio/media/posts/5/Setup-2.png</image:loc>
+<image:title><![CDATA[User flow to understand the customers use case]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://jtenniswood.github.io/portfolio/media/posts/5/Setup-5.png</image:loc>
+<image:title><![CDATA[Flow to guide customers to use case specific advice]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://jtenniswood.github.io/portfolio/media/posts/5/Hub.png</image:loc>
+<image:title><![CDATA[Events health overview]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://jtenniswood.github.io/portfolio/media/posts/5/Connector.png</image:loc>
+<image:title><![CDATA[Events health ingest overview]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://jtenniswood.github.io/portfolio/media/posts/5/User-Journey.png</image:loc>
+<image:title><![CDATA[Event setup flow]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://jtenniswood.github.io/portfolio/media/posts/5/Error-Handling.png</image:loc>
+<image:title><![CDATA[Event error check flow]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://jtenniswood.github.io/portfolio/best-buy-online-experience/</loc>
