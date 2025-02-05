@@ -3,7 +3,7 @@
     <title>James Tenniswood</title>
     <link href="https://jtenniswood.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://jtenniswood.github.io/portfolio" />
-    <updated>2025-02-05T17:03:53+00:00</updated>
+    <updated>2025-02-05T17:43:41+00:00</updated>
     <author>
         <name>James Tenniswood</name>
     </author>
@@ -31,31 +31,30 @@
                     <p><img src="https://jtenniswood.github.io/portfolio/media/posts/6/Fashion-Search.png" class="type:primaryImage" alt="Algolia Generative Commerce" /></p>
                 <section class="e-content" data-field="body">
 <section class="section section--body section--first section--last">
-<div class="section-divider"> </div>
+<div class="section-divider"><figure class="post__image post__image--wide"><img loading="lazy"  style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);" src="https://jtenniswood.github.io/portfolio/media/posts/6/gencom2-2.webp" alt="" width="2000" height="1422" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom2-2-xs.webp 384w ,https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom2-2-sm.webp 600w ,https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom2-2-md.webp 768w ,https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom2-2-lg.webp 1200w ,https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom2-2-xl.webp 1600w"></figure></div>
 <div class="section-content">
 <div class="section-inner sectionLayout--insetColumn">
-<p id="b313" class="graf graf--p graf--empty graf-after--h3"></p>
+<p> </p>
 <p id="71db" class="graf graf--p graf-after--p"><strong class="markup--strong markup--p-strong">Goal</strong></p>
 </div>
 <div class="section-inner sectionLayout--insetColumn">
 <p id="323c" class="graf graf--p graf-after--figure"><strong class="markup--strong markup--p-strong">Business</strong></p>
-<p id="a66b" class="graf graf--p graf-after--p"><em class="markup--em markup--p-em">Challenges</em><br>Reduce abandonment<br>Increase conversion<br>Boost cross sell/up sell motion<br>Increase brand relevance</p>
+<p id="a66b" class="graf graf--p graf-after--p"><em class="markup--em markup--p-em">Challenges</em></p>
+<p><br>Reduce abandonment<br>Increase conversion<br>Boost cross sell/up sell motion<br>Increase brand relevance</p>
 <p id="97a2" class="graf graf--p graf-after--p"><em class="markup--em markup--p-em">Situation</em><br>Build on strong brand recognition<br>Leverage existing customer relationships<br>Create value from customer starting their shopping journeys (top of funnel)</p>
 </div>
 <div class="section-inner sectionLayout--outsetColumn">
-<figure id="d21e" class="graf graf--figure graf--layoutOutsetCenter graf-after--p"><figure class="post__image"><img loading="lazy"  src="https://jtenniswood.github.io/portfolio/media/posts/6/gencom2.webp" width="2000" height="1422" data-image-id="1*D10bcvTCoWaBgumLuMMThA.png" data-width="2880" data-height="2048" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom2-xs.webp 384w ,https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom2-sm.webp 600w ,https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom2-md.webp 768w ,https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom2-lg.webp 1200w ,https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom2-xl.webp 1600w"></figure>
+<figure id="d21e" class="graf graf--figure graf--layoutOutsetCenter graf-after--p"><br>
 <figcaption class="imageCaption">Conversational product recommendations with seamless inter page navigation</figcaption>
 </figure>
 </div>
 <div class="section-inner sectionLayout--insetColumn">
 <p id="5ddc" class="graf graf--p graf--empty graf-after--p"></p>
 <p id="a5d7" class="graf graf--p graf-after--p"><strong class="markup--strong markup--p-strong">Features</strong><br><br>Conversational guided browse<br>Intelligent contextual product comparison</p>
+<p>Generative product comparison that creates a seamless transition between product views</p>
 </div>
 <div class="section-inner sectionLayout--outsetRow" data-paragraph-count="2">
-<figure id="b59d" class="graf graf--figure graf--layoutOutsetRow is-partialWidth graf-after--p"><figure class="post__image post__image--wide"><img loading="lazy"  src="https://jtenniswood.github.io/portfolio/media/posts/6/gencom3.webp" width="2880" height="2048" data-image-id="1*DRJ-Wh4rjV0KMpuGdltWYQ.png" data-width="2880" data-height="2048" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom3-xs.webp 384w ,https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom3-sm.webp 600w ,https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom3-md.webp 768w ,https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom3-lg.webp 1200w ,https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom3-xl.webp 1600w"></figure></figure>
-<figure id="610c" class="graf graf--figure graf--layoutOutsetRowContinue is-partialWidth graf-after--figure"><figure class="post__image post__image--wide"><img loading="lazy"  src="https://jtenniswood.github.io/portfolio/media/posts/6/gencom4.webp" width="2880" height="2048" data-image-id="1*2tVaErVXAEsoXQjWJJSvDA.png" data-width="2880" data-height="2048" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom4-xs.webp 384w ,https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom4-sm.webp 600w ,https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom4-md.webp 768w ,https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom4-lg.webp 1200w ,https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom4-xl.webp 1600w"></figure>
-<figcaption class="imageCaption">Generative product comparison that creates a seamless transition between product views</figcaption>
-</figure>
+<figure id="b59d" class="graf graf--figure graf--layoutOutsetRow is-partialWidth graf-after--p"></figure>
 </div>
 <div class="section-inner sectionLayout--insetColumn">
 <p id="7425" class="graf graf--p graf--empty graf-after--figure"></p>
@@ -64,10 +63,13 @@
 <p id="5e7a" class="graf graf--p graf--empty graf-after--p"></p>
 </div>
 <div class="section-inner sectionLayout--outsetRow" data-paragraph-count="2">
-<figure id="5be2" class="graf graf--figure graf--layoutOutsetRow is-partialWidth graf-after--p"><figure class="post__image post__image--wide"><img loading="lazy"  src="https://jtenniswood.github.io/portfolio/media/posts/6/gencom5.webp" width="2880" height="2048" data-image-id="1*f8H5NZ1G_oxZvf7CBf10sA.jpeg" data-width="2880" data-height="2048" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom5-xs.webp 384w ,https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom5-sm.webp 600w ,https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom5-md.webp 768w ,https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom5-lg.webp 1200w ,https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom5-xl.webp 1600w"></figure></figure>
-<figure id="a5dd" class="graf graf--figure graf--layoutOutsetRowContinue is-partialWidth graf-after--figure"><figure class="post__image post__image--wide"><img loading="lazy"  src="https://jtenniswood.github.io/portfolio/media/posts/6/gencom6.webp" width="2880" height="2048" data-image-id="1*wGk2z3V3gYIvuBdPm0X4IQ.jpeg" data-width="2880" data-height="2048" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom6-xs.webp 384w ,https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom6-sm.webp 600w ,https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom6-md.webp 768w ,https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom6-lg.webp 1200w ,https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom6-xl.webp 1600w"></figure>
-<figcaption class="imageCaption">User journey from generative shopping guide to conversationally guided search</figcaption>
-</figure>
+<figure id="5be2" class="graf graf--figure graf--layoutOutsetRow is-partialWidth graf-after--p">User journey from generative shopping guide to conversationally guided search</figure>
+<figure id="a5dd" class="graf graf--figure graf--layoutOutsetRowContinue is-partialWidth graf-after--figure"><figure class="post__image"><img loading="lazy"  src="https://jtenniswood.github.io/portfolio/media/posts/6/gencom3-3.webp" alt="" width="2880" height="2048" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom3-3-xs.webp 384w ,https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom3-3-sm.webp 600w ,https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom3-3-md.webp 768w ,https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom3-3-lg.webp 1200w ,https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom3-3-xl.webp 1600w"></figure></figure>
+<figure class="post__image"><img loading="lazy"  src="https://jtenniswood.github.io/portfolio/media/posts/6/gencom4-2.webp" alt="" width="2880" height="2048" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom4-2-xs.webp 384w ,https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom4-2-sm.webp 600w ,https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom4-2-md.webp 768w ,https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom4-2-lg.webp 1200w ,https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom4-2-xl.webp 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://jtenniswood.github.io/portfolio/media/posts/6/gencom5-2.webp" alt="" width="2880" height="2048" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom5-2-xs.webp 384w ,https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom5-2-sm.webp 600w ,https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom5-2-md.webp 768w ,https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom5-2-lg.webp 1200w ,https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom5-2-xl.webp 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://jtenniswood.github.io/portfolio/media/posts/6/gencom6-2.webp" alt="" width="2880" height="2048" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom6-2-xs.webp 384w ,https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom6-2-sm.webp 600w ,https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom6-2-md.webp 768w ,https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom6-2-lg.webp 1200w ,https://jtenniswood.github.io/portfolio/media/posts/6/responsive/gencom6-2-xl.webp 1600w"></figure>
+<p> </p>
+<p> </p>
 </div>
 </div>
 </section>
