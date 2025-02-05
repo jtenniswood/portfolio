@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://jtenniswood.github.io/portfolio/sitemap.xml
+Sitemap: https://jamestenniswood.com/sitemap.xml
