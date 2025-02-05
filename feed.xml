@@ -3,7 +3,7 @@
     <title>James Tenniswood</title>
     <link href="https://jtenniswood.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://jtenniswood.github.io/portfolio" />
-    <updated>2025-02-04T22:09:38+00:00</updated>
+    <updated>2025-02-05T10:13:47+00:00</updated>
     <author>
         <name>James Tenniswood</name>
     </author>
@@ -82,19 +82,19 @@
         </author>
         <link href="https://jtenniswood.github.io/portfolio/algolia-events/"/>
         <id>https://jtenniswood.github.io/portfolio/algolia-events/</id>
-        <media:content url="https://jtenniswood.github.io/portfolio/media/posts/5/Setup-2.png" medium="image" />
+        <media:content url="https://jtenniswood.github.io/portfolio/media/posts/5/Studio-Display-Events-Hero.webp" medium="image" />
             <category term="Algolia"/>
 
         <updated>2023-10-04T15:01:00+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jtenniswood.github.io/portfolio/media/posts/5/Setup-2.png" alt="User flow to understand the customers use case" />
+                        <img src="https://jtenniswood.github.io/portfolio/media/posts/5/Studio-Display-Events-Hero.webp" alt="User flow to understand the customers use case" />
                     Our team was challenged to create a seamless events monitoring experience, where customers can understand the health of their setup&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://jtenniswood.github.io/portfolio/media/posts/5/Setup-2.png" class="type:primaryImage" alt="User flow to understand the customers use case" /></p>
+                    <p><img src="https://jtenniswood.github.io/portfolio/media/posts/5/Studio-Display-Events-Hero.webp" class="type:primaryImage" alt="User flow to understand the customers use case" /></p>
                 <section class="e-content" data-field="body">
 <section class="section section--body section--first section--last">
 <p class="section-divider"><span style="color: var(--headings-color); font-family: var(--font-base); font-size: 1.26562em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);">Our team was challenged to create a seamless events monitoring experience, where customers can understand the health of their setup at a glance, and continue their path to enable Algolia services that boost their business performance.</span></p>
@@ -199,19 +199,19 @@
         </author>
         <link href="https://jtenniswood.github.io/portfolio/twilio-flex/"/>
         <id>https://jtenniswood.github.io/portfolio/twilio-flex/</id>
-        <media:content url="https://jtenniswood.github.io/portfolio/media/posts/8/flex1-2.webp" medium="image" />
+        <media:content url="https://jtenniswood.github.io/portfolio/media/posts/8/flex-hero-2.webp" medium="image" />
             <category term="Twilio"/>
 
         <updated>2021-07-14T15:06:00+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jtenniswood.github.io/portfolio/media/posts/8/flex1-2.webp" alt="Twilio Flex Agent Experience" />
+                        <img src="https://jtenniswood.github.io/portfolio/media/posts/8/flex-hero-2.webp" alt="Twilio Flex Agent Experience" />
                     As customer expectations continue to shift, brands are eager to foster deeper connections with their clientele. At Twilio, we created&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://jtenniswood.github.io/portfolio/media/posts/8/flex1-2.webp" class="type:primaryImage" alt="Twilio Flex Agent Experience" /></p>
+                    <p><img src="https://jtenniswood.github.io/portfolio/media/posts/8/flex-hero-2.webp" class="type:primaryImage" alt="Twilio Flex Agent Experience" /></p>
                 <section class="e-content" data-field="body"><span style="color: var(--headings-color); font-family: var(--font-base); font-size: 1.26562em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);">As customer expectations continue to shift, brands are eager to foster deeper connections with their clientele. At Twilio, we created a next-generation experience aimed at cultivating meaningful interactions between customers and brands.</span>
 <div class="section-content">
 <div class="section-inner sectionLayout--insetColumn">
