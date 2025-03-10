@@ -3,12 +3,72 @@
     <title>James Tenniswood</title>
     <link href="https://jamestenniswood.com/feed.xml" rel="self" />
     <link href="https://jamestenniswood.com" />
-    <updated>2025-02-05T20:11:52+00:00</updated>
+    <updated>2025-03-10T09:34:29+00:00</updated>
     <author>
         <name>James Tenniswood</name>
     </author>
     <id>https://jamestenniswood.com</id>
 
+    <entry>
+        <title>Algolia Generative Commerce</title>
+        <author>
+            <name>James Tenniswood</name>
+        </author>
+        <link href="https://jamestenniswood.com/generative-commerce/"/>
+        <id>https://jamestenniswood.com/generative-commerce/</id>
+        <media:content url="https://jamestenniswood.com/media/posts/6/Fashion-Search.png" medium="image" />
+            <category term="Algolia"/>
+
+        <updated>2024-01-17T15:04:00+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jamestenniswood.com/media/posts/6/Fashion-Search.png" alt="Algolia Generative Commerce" />
+                    Generative AI is transforming industries, creating new opportunities to enhance customer experiences and scale businesses in ways previously impossible. At&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://jamestenniswood.com/media/posts/6/Fashion-Search.png" class="type:primaryImage" alt="Algolia Generative Commerce" /></p>
+                <section class="e-content" data-field="body">
+<section class="section section--body section--first section--last">
+<div>Generative AI is transforming industries, creating new opportunities to enhance customer experiences and scale businesses in ways previously impossible. At Algolia, we wanted to investigate how our retails customers could leverage this new tool to improve their customers buying experience.</div>
+<div>
+<h2><strong>Goal</strong></h2>
+<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">How might we leverage generative AI to improve the customer journey—helping users quickly find the right products, increasing engagement, and strengthening brand relationships? </span></p>
+</div>
+<div class="section-content">
+<div class="section-inner sectionLayout--outsetRow" data-paragraph-count="2">
+<h2><strong>Discovery</strong></h2>
+<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">We sort to understand consumer and retailers pain points to identify opportunities to bring to market. Our focus was on turning top-of-funnel interest into meaningful conversations that drive satisfaction and loyalty. </span>We conducted user interviews with both customers and retailers to understand their challenges.</p>
+<h5><strong>Customer Insights</strong></h5>
+<p>Customers often felt overwhelmed when making purchasing decisions, particularly in unfamiliar product categories. They struggled to process excessive information, leading to decision paralysis—a feeling of being blocked from making a confident choice. Challenges included...</p>
+<ul>
+<li>Too much information, not enough clarity – Customers researched extensively but struggled to distill insights into actionable decisions.</li>
+<li>Desire for confidence in buying decisions – They didn’t want to default to the cheapest option or rely solely on brand recognition.</li>
+<li>Difficulty in narrowing choices – Trade-offs made them anxious about missing out on better options.</li>
+<li>Complexity in bundling products within a fixed budget – For example, purchasing a home entertainment setup or outfitting a kitchen felt overwhelming.</li>
+</ul>
+<h5><strong>Retailer Insights</strong></h5>
+<p>Retailers faced challenges in converting top-of-funnel customers. Early engagement was difficult because customers lacked a clear understanding of what they needed, making product recommendations ineffective. Challenges included...</p>
+<ul>
+<li>High churn at the top of the funnel – Customers lacked confidence in refining their search, leading to drop-off.</li>
+<li>Late-stage customer engagement – Retailers typically interacted with customers only after they had decided on a product, reducing differentiation to price and service.</li>
+<li>Missed opportunities for brand loyalty – Customers often started their product search on Google rather than directly with a retailer. Retailers wanted to engage earlier in the journey to build long-term relationships.</li>
+</ul>
+<h2>Solution </h2>
+<p>We developed a two-pronged approach to address customer decision paralysis and enhance the shopping experience:</p>
+<h4><strong>Generative Shopping Guides</strong></h4>
+<p>These guides blend human subject matter expertise with AI-driven insights. By combining the deep domain knowledge that retailers already possess with tailored style guidelines for large language models, each retailer can offer a unique, branded experience. This approach reassures customers that they are receiving valuable expertise and a trusted starting point for navigating complex choices.</p>
+<h4><strong>Conversational Shopping Assistance</strong></h4>
+<p>In parallel, we created an interactive shopping assistant designed to engage users when signals of churn—like broad search queries or high bounce rates—are detected. The assistant asks targeted questions to guide users toward suitable solutions, offering a seamless transition between search, product details, and generative product comparisons. Feedback confirmed that users value a concise, immediately beneficial interaction that empowers them to explore a curated selection of products rather than passively accepting a recommendation.</p>
+<p>Together, these solutions not only help customers make informed decisions but also reinforce the retailer’s role as a knowledgeable and trusted partner throughout the shopping journey.</p>
+</div>
+</div>
+</section>
+</section>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Twilio Flex</title>
         <author>
@@ -474,33 +534,6 @@
 <figure class="post__image post__image--wide"><img loading="lazy"  src="https://jamestenniswood.com/media/posts/19/bestbuy2.webp" alt="" width="1500" height="941" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://jamestenniswood.com/media/posts/19/responsive/bestbuy2-xs.webp 384w ,https://jamestenniswood.com/media/posts/19/responsive/bestbuy2-sm.webp 600w ,https://jamestenniswood.com/media/posts/19/responsive/bestbuy2-md.webp 768w ,https://jamestenniswood.com/media/posts/19/responsive/bestbuy2-lg.webp 1200w ,https://jamestenniswood.com/media/posts/19/responsive/bestbuy2-xl.webp 1600w"></figure>
 <figure class="post__image post__image--wide"><img loading="lazy"  src="https://jamestenniswood.com/media/posts/19/bestbuy3.webp" alt="" width="1500" height="941" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://jamestenniswood.com/media/posts/19/responsive/bestbuy3-xs.webp 384w ,https://jamestenniswood.com/media/posts/19/responsive/bestbuy3-sm.webp 600w ,https://jamestenniswood.com/media/posts/19/responsive/bestbuy3-md.webp 768w ,https://jamestenniswood.com/media/posts/19/responsive/bestbuy3-lg.webp 1200w ,https://jamestenniswood.com/media/posts/19/responsive/bestbuy3-xl.webp 1600w"></figure>
 </section>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Music Choice</title>
-        <author>
-            <name>James Tenniswood</name>
-        </author>
-        <link href="https://jamestenniswood.com/music-choice/"/>
-        <id>https://jamestenniswood.com/music-choice/</id>
-        <media:content url="https://jamestenniswood.com/media/posts/20/music1-2.webp" medium="image" />
-
-        <updated>2006-05-24T15:11:00+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://jamestenniswood.com/media/posts/20/music1-2.webp" alt="" />
-                    Developed the Music Choice brand and client services across digital television, mobile and broadband platforms worldwide. Lead concepts for new&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://jamestenniswood.com/media/posts/20/music1-2.webp" class="type:primaryImage" alt="" /></p>
-                <h4><span class="s1">Developed the Music Choice brand and client services across digital television, mobile and broadband platforms worldwide. Lead concepts for new customers and platforms. </span></h4>
-<p><span class="s1">Created and managed brand guides, marketing and advertising material. Developed campaign materials (print, online and broadcast) to support PR and marketing.</span></p>
-<figure class="post__image"><img loading="lazy"  src="https://jamestenniswood.com/media/posts/20/music1.webp" alt="" width="1474" height="884" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://jamestenniswood.com/media/posts/20/responsive/music1-xs.webp 384w ,https://jamestenniswood.com/media/posts/20/responsive/music1-sm.webp 600w ,https://jamestenniswood.com/media/posts/20/responsive/music1-md.webp 768w ,https://jamestenniswood.com/media/posts/20/responsive/music1-lg.webp 1200w ,https://jamestenniswood.com/media/posts/20/responsive/music1-xl.webp 1600w"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://jamestenniswood.com/media/posts/20/music2.webp" alt="" width="1474" height="884" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://jamestenniswood.com/media/posts/20/responsive/music2-xs.webp 384w ,https://jamestenniswood.com/media/posts/20/responsive/music2-sm.webp 600w ,https://jamestenniswood.com/media/posts/20/responsive/music2-md.webp 768w ,https://jamestenniswood.com/media/posts/20/responsive/music2-lg.webp 1200w ,https://jamestenniswood.com/media/posts/20/responsive/music2-xl.webp 1600w"></figure>
-<p class="p3"> </p>
             ]]>
         </content>
     </entry>
