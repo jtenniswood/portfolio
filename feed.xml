@@ -3,12 +3,123 @@
     <title>James Tenniswood</title>
     <link href="https://www.jamestenniswood.com/feed.xml" rel="self" />
     <link href="https://www.jamestenniswood.com" />
-    <updated>2025-09-10T10:47:36+01:00</updated>
+    <updated>2025-09-10T15:22:17+01:00</updated>
     <author>
         <name>James Tenniswood</name>
     </author>
     <id>https://www.jamestenniswood.com</id>
 
+    <entry>
+        <title>Algolia Generative Commerce</title>
+        <author>
+            <name>James Tenniswood</name>
+        </author>
+        <link href="https://www.jamestenniswood.com/generative-commerce/"/>
+        <id>https://www.jamestenniswood.com/generative-commerce/</id>
+        <media:content url="https://www.jamestenniswood.com/media/posts/6/2024-02-27-18.40.15-2.png" medium="image" />
+            <category term="Algolia"/>
+
+        <updated>2024-01-17T15:04:00+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.jamestenniswood.com/media/posts/6/2024-02-27-18.40.15-2.png" alt="Algolia Generative Commerce" />
+                    Overview In an increasingly competitive e-commerce landscape, traditional product browsing experiences often leave customers overwhelmed and brands struggling with high&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.jamestenniswood.com/media/posts/6/2024-02-27-18.40.15-2.png" class="type:primaryImage" alt="Algolia Generative Commerce" /></p>
+                <section class="e-content" data-field="body">
+<section class="section section--body section--first section--last">
+<div class="section-divider"><span style="color: var(--headings-color); font-family: var(--font-base); font-size: 1.60181em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);">Overview</span></div>
+<div class="section-content">
+<div class="section-inner sectionLayout--insetColumn">
+<p class="whitespace-normal break-words">In an increasingly competitive e-commerce landscape, traditional product browsing experiences often leave customers overwhelmed and brands struggling with high abandonment rates. This project focused on designing a conversational commerce solution that transforms how customers discover and compare products, creating a more intuitive and personalized shopping journey.</p>
+<h2 class="text-xl font-bold text-text-100 mt-1 -mb-0.5">The Challenge</h2>
+<h3 class="text-lg font-bold text-text-100 mt-1 -mb-1.5">Business Problem</h3>
+<p class="whitespace-normal break-words">Our e-commerce platform faced several critical challenges that were impacting both customer satisfaction and business performance:</p>
+<ul class="[&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc space-y-1.5 pl-7">
+<li class="whitespace-normal break-words"><strong>High Abandonment Rates</strong>: Customers were leaving without making purchases, particularly when faced with complex product categories</li>
+<li class="whitespace-normal break-words"><strong>Low Conversion Rates</strong>: The gap between product views and actual purchases continued to widen</li>
+<li class="whitespace-normal break-words"><strong>Limited Cross-sell/Up-sell Success</strong>: Customers weren't discovering complementary or premium products that would enhance their experience</li>
+<li class="whitespace-normal break-words"><strong>Declining Brand Relevance</strong>: In a crowded market, we needed to differentiate our shopping experience to maintain competitive advantage</li>
+</ul>
+<h3 class="text-lg font-bold text-text-100 mt-1 -mb-1.5">The Opportunity</h3>
+<p class="whitespace-normal break-words">Despite these challenges, we recognized significant strengths we could build upon:</p>
+<ul class="[&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc space-y-1.5 pl-7">
+<li class="whitespace-normal break-words"><strong>Strong Brand Recognition</strong>: Our established brand provided a foundation of trust with customers</li>
+<li class="whitespace-normal break-words"><strong>Existing Customer Relationships</strong>: We had a loyal customer base whose shopping behaviors we could analyze and improve upon</li>
+<li class="whitespace-normal break-words"><strong>Top-of-Funnel Advantage</strong>: Customers were beginning their shopping journeys with us, giving us the opportunity to guide them through the entire discovery process</li>
+</ul>
+<h3 class="text-lg font-bold text-text-100 mt-1 -mb-1.5">Core Concept</h3>
+<p class="whitespace-normal break-words">We developed a conversational commerce experience that combines AI-powered product recommendations with seamless navigation, creating a guided shopping journey that feels natural and personalized.</p>
+<p> </p>
+<h4 class="text-base font-bold text-text-100 mt-1">Conversational Guided Browse</h4>
+<p class="whitespace-normal break-words">Rather than overwhelming customers with endless product grids, we introduced a conversational interface that helps customers articulate their needs and preferences. The system asks relevant questions and narrows down options based on responses, then provides smart product comparisons that understand the customer's specific use case and priorities. Instead of generic feature lists, the system highlights the differences that matter most to each individual customer throughout the conversational browsing experience.</p>
+<p class="whitespace-normal break-words"><strong>Key Benefits:</strong></p>
+<ul class="[&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc space-y-1.5 pl-7">
+<li class="whitespace-normal break-words">Reduces decision paralysis</li>
+<li class="whitespace-normal break-words">Increases engagement time</li>
+<li class="whitespace-normal break-words">Captures valuable preference data</li>
+<li class="whitespace-normal break-words">Accelerates decision-making</li>
+<li class="whitespace-normal break-words">Builds confidence in purchase decisions</li>
+<li class="whitespace-normal break-words">Reduces post-purchase regret</li>
+</ul>
+<div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://www.jamestenniswood.com/media/posts/6/gallery/2024-02-27-18.45.49.png" data-size="2880x2048"><img loading="lazy" src="https://www.jamestenniswood.com/media/posts/6/gallery/2024-02-27-18.45.49-thumbnail.png" alt="" width="768" height="546"></a></figure>
+<figure class="gallery__item"><a href="https://www.jamestenniswood.com/media/posts/6/gallery/2024-02-27-18.40.16.png" data-size="2880x2048"><img loading="lazy" src="https://www.jamestenniswood.com/media/posts/6/gallery/2024-02-27-18.40.16-thumbnail.png" alt="" width="768" height="546"></a></figure>
+</div></div>
+<h3 class="text-base font-bold text-text-100 mt-1"><br>Generative Product Comparison</h3>
+<p class="whitespace-normal break-words">We created a dynamic comparison experience that generates relevant insights and allows customers to seamlessly transition between different product views without losing context or conversation history.</p>
+<p class="whitespace-normal break-words"><strong>Key Benefits:</strong></p>
+<ul class="[&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc space-y-1.5 pl-7">
+<li class="whitespace-normal break-words">Maintains shopping momentum</li>
+<li class="whitespace-normal break-words">Reduces cognitive load</li>
+<li class="whitespace-normal break-words">Creates cohesive experience across touchpoints</li>
+</ul>
+<figure class="post__image post__image--wide"><img loading="lazy"  src="https://www.jamestenniswood.com/media/posts/6/gencom3-3.webp" alt="" width="824" height="586" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://www.jamestenniswood.com/media/posts/6/responsive/gencom3-3-xs.webp 384w ,https://www.jamestenniswood.com/media/posts/6/responsive/gencom3-3-sm.webp 600w ,https://www.jamestenniswood.com/media/posts/6/responsive/gencom3-3-md.webp 768w ,https://www.jamestenniswood.com/media/posts/6/responsive/gencom3-3-lg.webp 1200w ,https://www.jamestenniswood.com/media/posts/6/responsive/gencom3-3-xl.webp 1600w"></figure>
+<h3 class="text-base font-bold text-text-100 mt-1"><br>Generative Buyers Guides</h3>
+<p class="whitespace-normal break-words">The system creates personalised buying guides that adapt to each customer's specific needs, budget, and preferences, serving as a trusted advisor throughout the shopping journey.</p>
+<p class="whitespace-normal break-words"><strong>Key Benefits:</strong></p>
+<ul class="[&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc space-y-1.5 pl-7">
+<li class="whitespace-normal break-words">Establishes expertise and trust</li>
+<li class="whitespace-normal break-words">Educates customers on product categories</li>
+<li class="whitespace-normal break-words">Increases customer lifetime value</li>
+</ul>
+<h2 class="text-xl font-bold text-text-100 mt-1 -mb-0.5"><figure class="post__image post__image--wide"><img loading="lazy"  src="https://www.jamestenniswood.com/media/posts/6/gencom5-2.webp" alt="" width="2880" height="2048" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://www.jamestenniswood.com/media/posts/6/responsive/gencom5-2-xs.webp 384w ,https://www.jamestenniswood.com/media/posts/6/responsive/gencom5-2-sm.webp 600w ,https://www.jamestenniswood.com/media/posts/6/responsive/gencom5-2-md.webp 768w ,https://www.jamestenniswood.com/media/posts/6/responsive/gencom5-2-lg.webp 1200w ,https://www.jamestenniswood.com/media/posts/6/responsive/gencom5-2-xl.webp 1600w"></figure></h2>
+<h2 class="text-xl font-bold text-text-100 mt-1 -mb-0.5"><br>User Journey</h2>
+<p class="whitespace-normal break-words">The experience follows a natural progression that mirrors how people actually shop:</p>
+<ol class="[&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-decimal space-y-1.5 pl-7">
+<li class="whitespace-normal break-words"><strong>Initial Discovery</strong>: Customer begins with a generative shopping guide that understands their general needs or interests</li>
+<li class="whitespace-normal break-words"><strong>Conversational Refinement</strong>: Through natural dialogue, the system helps customers articulate specific requirements and preferences</li>
+<li class="whitespace-normal break-words"><strong>Guided Search</strong>: Based on the conversation, customers are seamlessly transitioned into a contextual search experience</li>
+<li class="whitespace-normal break-words"><strong>Intelligent Comparison</strong>: Relevant products are presented with AI-generated comparisons that highlight key differentiators</li>
+<li class="whitespace-normal break-words"><strong>Confident Purchase</strong>: Customers make informed decisions with full context and personalized recommendations</li>
+</ol>
+<h2 class="text-xl font-bold text-text-100 mt-1 -mb-0.5">Business Impact</h2>
+<ul class="[&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc space-y-1.5 pl-7">
+<li class="whitespace-normal break-words"><strong>Reduced Abandonment</strong>: Conversational guidance helped customers find relevant products faster</li>
+<li class="whitespace-normal break-words"><strong>Increased Conversion</strong>: Personalized recommendations and comparisons built purchase confidence</li>
+<li class="whitespace-normal break-words"><strong>Enhanced Cross-sell/Up-sell</strong>: Contextual suggestions introduced customers to complementary products naturally</li>
+<li class="whitespace-normal break-words"><strong>Strengthened Brand Differentiation</strong>: The conversational experience became a unique value proposition</li>
+</ul>
+<h2 class="text-xl font-bold text-text-100 mt-1 -mb-0.5">Conclusion</h2>
+<p class="whitespace-normal break-words">This conversational commerce solution successfully transformed our product discovery experience from a traditional browse-and-search model to an intelligent, guided shopping journey. By combining AI-powered recommendations with seamless navigation and contextual comparisons, we created a differentiated experience that addressed key business challenges while significantly improving customer satisfaction.</p>
+</div>
+<div class="section-inner sectionLayout--outsetRow" data-paragraph-count="2">
+<figure id="a5dd" class="graf graf--figure graf--layoutOutsetRowContinue is-partialWidth graf-after--figure"></figure>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+</div>
+</div>
+</section>
+</section>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Algolia Events Setup</title>
         <author>
@@ -34,26 +145,28 @@
 <p class="section-divider"><span style="color: var(--headings-color); font-family: var(--font-base); font-size: 1.26562em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);">Our team was challenged to create a seamless events monitoring experience, where customers can understand the health of their setup at a glance, and continue their path to enable Algolia services that boost their business performance.</span></p>
 <div class="section-content">
 <div class="section-inner sectionLayout--insetColumn">
-<h6 id="a61d" class="graf graf--h4 graf-after--h4">Why is this important?</h6>
-<p id="0a75" class="graf graf--p graf-after--h4">Tracking end customer events is critical to enabling AI recommendations, which helps optimise their search experience and automate a lot of the detailed configuration work connected with category management, search query reranking and synonym generation.</p>
-<h6 id="a140" class="graf graf--h4 graf-after--p">Principles</h6>
+<h5 id="a61d" class="graf graf--h4 graf-after--h4">Why is this important?</h5>
+<p id="0a75" class="graf graf--p graf-after--h4">Tracking end-customer events is the foundation for AI-powered recommendations that optimise search experiences. When events flow correctly, we can automate complex configuration work—from category management to search query reranking and synonym generation. Without proper event monitoring, customers lose these powerful capabilities.</p>
+<h5 id="a140" class="graf graf--h4 graf-after--p">Principles</h5>
 <ul class="postList">
-<li id="abc8" class="graf graf--li graf-after--h4">Users can quickly understand the health of the data being shared</li>
-<li id="350e" class="graf graf--li graf-after--li">Every path should have an actionable next step for the user to follow</li>
-<li id="ab98" class="graf graf--li graf-after--li">Errors should be framed their impact to the services they power</li>
+<li class="whitespace-normal break-words"><strong>Instant clarity</strong>: Users can quickly assess data health without digging into technical details</li>
+<li class="whitespace-normal break-words"><strong>Always actionable</strong>: Every screen provides clear next steps, eliminating dead ends</li>
+<li class="whitespace-normal break-words"><strong>Impact-focused errors</strong>: Error messages explain consequences to business services, not just technical failures</li>
 </ul>
 </div>
 <div class="section-inner sectionLayout--outsetColumn"> </div>
 <div class="section-inner sectionLayout--insetColumn">
 <figure id="0299" class="graf graf--figure graf-after--figure"><figure class="post__image post__image--wide"><img loading="lazy"  src="https://www.jamestenniswood.com/media/posts/5/Setup-5.png" alt="Flow to guide customers to use case specific advice" width="2884" height="2058" data-image-id="1*seJT10aXD1kG-l1o0ao-UA.png" data-width="2884" data-height="2058" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://www.jamestenniswood.com/media/posts/5/responsive/Setup-5-xs.png 384w ,https://www.jamestenniswood.com/media/posts/5/responsive/Setup-5-sm.png 600w ,https://www.jamestenniswood.com/media/posts/5/responsive/Setup-5-md.png 768w ,https://www.jamestenniswood.com/media/posts/5/responsive/Setup-5-lg.png 1200w ,https://www.jamestenniswood.com/media/posts/5/responsive/Setup-5-xl.png 1600w"></figure></figure>
-<p id="91c1" class="graf graf--p graf-after--figure">Event configuration and management serve as the means to achieve this goal, rather than the end objective. Monitoring the health of events will be done by both technical experts and business managers.</p>
+<h5 id="91c1" class="graf graf--p graf-after--figure"><strong>Understanding Our Users</strong></h5>
+<p>Event monitoring serves different audiences—from technical developers implementing the setup to business managers tracking performance. The solution needed to speak to both, treating event configuration as a means to business success rather than a technical end goal.</p>
 </div>
 <div class="section-inner sectionLayout--outsetColumn">
 <figure id="daf9" class="graf graf--figure graf--layoutOutsetCenter graf-after--p"><figure class="post__image post__image--wide"><img loading="lazy"  src="https://www.jamestenniswood.com/media/posts/5/Hub.png" alt="Events health overview" width="2930" height="2198" data-image-id="1*T4HU3t_Ubh1utxtq11VNKA.png" data-width="2930" data-height="2198" data-is-featured="true" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://www.jamestenniswood.com/media/posts/5/responsive/Hub-xs.png 384w ,https://www.jamestenniswood.com/media/posts/5/responsive/Hub-sm.png 600w ,https://www.jamestenniswood.com/media/posts/5/responsive/Hub-md.png 768w ,https://www.jamestenniswood.com/media/posts/5/responsive/Hub-lg.png 1200w ,https://www.jamestenniswood.com/media/posts/5/responsive/Hub-xl.png 1600w"></figure></figure>
 </div>
 <div class="section-inner sectionLayout--insetColumn">
 <figure id="be13" class="graf graf--figure graf-after--figure"><figure class="post__image post__image--wide"><img loading="lazy"  src="https://www.jamestenniswood.com/media/posts/5/Connector.png" alt="Events health ingest overview" width="2880" height="2790" data-image-id="1*ksv8K8m1P6AcH2wKnE70wg.png" data-width="2880" data-height="2790" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://www.jamestenniswood.com/media/posts/5/responsive/Connector-xs.png 384w ,https://www.jamestenniswood.com/media/posts/5/responsive/Connector-sm.png 600w ,https://www.jamestenniswood.com/media/posts/5/responsive/Connector-md.png 768w ,https://www.jamestenniswood.com/media/posts/5/responsive/Connector-lg.png 1200w ,https://www.jamestenniswood.com/media/posts/5/responsive/Connector-xl.png 1600w"></figure></figure>
-<p id="a078" class="graf graf--p graf-after--figure">Defining the use journey through setup, and how to prioritise customer issues across their setup.</p>
+<h5 id="a078" class="graf graf--p graf-after--figure"><strong>Defining the Path Forward</strong></h5>
+<p>I mapped the complete user journey from initial setup through ongoing monitoring, establishing how to prioritise and resolve customer issues across their entire implementation.</p>
 </div>
 <div class="section-inner sectionLayout--outsetColumn">
 <figure id="b106" class="graf graf--figure graf--layoutOutsetCenter graf-after--p"><figure class="post__image post__image--wide"><img loading="lazy"  src="https://www.jamestenniswood.com/media/posts/5/User-Journey.png" alt="Event setup flow" width="3802" height="1907" data-image-id="1*OJrwuf--ToebaqLYfjlAVQ.png" data-width="3802" data-height="1907" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://www.jamestenniswood.com/media/posts/5/responsive/User-Journey-xs.png 384w ,https://www.jamestenniswood.com/media/posts/5/responsive/User-Journey-sm.png 600w ,https://www.jamestenniswood.com/media/posts/5/responsive/User-Journey-md.png 768w ,https://www.jamestenniswood.com/media/posts/5/responsive/User-Journey-lg.png 1200w ,https://www.jamestenniswood.com/media/posts/5/responsive/User-Journey-xl.png 1600w"></figure></figure>
@@ -516,54 +629,6 @@
 </div>
 </section>
 </section>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Vogue Online Identity</title>
-        <author>
-            <name>James Tenniswood</name>
-        </author>
-        <link href="https://www.jamestenniswood.com/vogue-online-identity/"/>
-        <id>https://www.jamestenniswood.com/vogue-online-identity/</id>
-        <media:content url="https://www.jamestenniswood.com/media/posts/18/vogue1-2.webp" medium="image" />
-            <category term="Vogue"/>
-            <category term="Conde Nast"/>
-
-        <updated>2011-02-11T15:11:00+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.jamestenniswood.com/media/posts/18/vogue1-2.webp" alt="" />
-                    Vogue’s redesign aims were to deliver a clear navigation, to support driving users across the variety of content, refine the&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.jamestenniswood.com/media/posts/18/vogue1-2.webp" class="type:primaryImage" alt="" /></p>
-                <section class="e-content" data-field="body">
-<section class="section section--body section--first section--last">
-<div class="section-divider"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Vogue’s redesign aims were to deliver a clear navigation, to support driving users across the variety of content, refine the visual design to be as minimal as possible, reduce complexity and clutter, improve the readability of the content, allowing users to focus on the content rather than the site design.</span></div>
-<div class="section-content">
-<div class="section-inner sectionLayout--fullWidth">
-<figure id="8384" class="graf graf--figure graf--layoutFillWidth graf-after--p"></figure>
-</div>
-<div class="section-inner sectionLayout--insetColumn">
-<p id="cabd" class="graf graf--p graf-after--figure">A visual fashion show browsing experience was added to help get shop images onto the site as quickly as possible, aiding the reader navigate though the vast range of shows and looks.</p>
-</div>
-<div class="section-inner sectionLayout--outsetColumn">
-<figure id="3993" class="graf graf--figure graf--layoutOutsetCenter graf-after--p"><figure class="post__image"><img loading="lazy"  src="https://www.jamestenniswood.com/media/posts/18/vogue2.webp" alt="" width="1606" height="938" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://www.jamestenniswood.com/media/posts/18/responsive/vogue2-xs.webp 384w ,https://www.jamestenniswood.com/media/posts/18/responsive/vogue2-sm.webp 600w ,https://www.jamestenniswood.com/media/posts/18/responsive/vogue2-md.webp 768w ,https://www.jamestenniswood.com/media/posts/18/responsive/vogue2-lg.webp 1200w ,https://www.jamestenniswood.com/media/posts/18/responsive/vogue2-xl.webp 1600w"></figure></figure>
-<figure id="1ea2" class="graf graf--figure graf--layoutOutsetCenter graf-after--figure"><figure class="post__image"><img loading="lazy"  src="https://www.jamestenniswood.com/media/posts/18/vogue3.webp" alt="" width="1606" height="938" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://www.jamestenniswood.com/media/posts/18/responsive/vogue3-xs.webp 384w ,https://www.jamestenniswood.com/media/posts/18/responsive/vogue3-sm.webp 600w ,https://www.jamestenniswood.com/media/posts/18/responsive/vogue3-md.webp 768w ,https://www.jamestenniswood.com/media/posts/18/responsive/vogue3-lg.webp 1200w ,https://www.jamestenniswood.com/media/posts/18/responsive/vogue3-xl.webp 1600w"></figure></figure>
-</div>
-<div class="section-inner sectionLayout--insetColumn">
-<p id="d4f5" class="graf graf--p graf-after--figure">The homepage was re-architected to aid promotion of the diverse range of editorial, large images added, support for industry blogs added and a more engaging interactive magazine promotion included in the site header and magazine archive. The result was a doubling of Vogue’s traffic, driven by high quality readerships who are more strongly engaged with the brand and editorial opinion.</p>
-</div>
-<div class="section-inner sectionLayout--outsetColumn"> </div>
-</div>
-</section>
-</section>
-<footer>
-<figure class="post__image post__image--wide"><img loading="lazy"  src="https://www.jamestenniswood.com/media/posts/18/vogue4.webp" alt="" width="1280" height="1685" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://www.jamestenniswood.com/media/posts/18/responsive/vogue4-xs.webp 384w ,https://www.jamestenniswood.com/media/posts/18/responsive/vogue4-sm.webp 600w ,https://www.jamestenniswood.com/media/posts/18/responsive/vogue4-md.webp 768w ,https://www.jamestenniswood.com/media/posts/18/responsive/vogue4-lg.webp 1200w ,https://www.jamestenniswood.com/media/posts/18/responsive/vogue4-xl.webp 1600w"></figure>
-</footer>
             ]]>
         </content>
     </entry>
