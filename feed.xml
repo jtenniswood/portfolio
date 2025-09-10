@@ -3,69 +3,126 @@
     <title>James Tenniswood</title>
     <link href="https://jamestenniswood.com/feed.xml" rel="self" />
     <link href="https://jamestenniswood.com" />
-    <updated>2025-03-10T09:34:29+00:00</updated>
+    <updated>2025-09-10T10:47:36+01:00</updated>
     <author>
         <name>James Tenniswood</name>
     </author>
     <id>https://jamestenniswood.com</id>
 
     <entry>
-        <title>Algolia Generative Commerce</title>
+        <title>Algolia Events Setup</title>
         <author>
             <name>James Tenniswood</name>
         </author>
-        <link href="https://jamestenniswood.com/generative-commerce/"/>
-        <id>https://jamestenniswood.com/generative-commerce/</id>
-        <media:content url="https://jamestenniswood.com/media/posts/6/Fashion-Search.png" medium="image" />
+        <link href="https://jamestenniswood.com/algolia-events/"/>
+        <id>https://jamestenniswood.com/algolia-events/</id>
+        <media:content url="https://jamestenniswood.com/media/posts/5/Setup-2.png" medium="image" />
             <category term="Algolia"/>
 
-        <updated>2024-01-17T15:04:00+00:00</updated>
+        <updated>2023-10-04T15:01:00+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jamestenniswood.com/media/posts/6/Fashion-Search.png" alt="Algolia Generative Commerce" />
-                    Generative AI is transforming industries, creating new opportunities to enhance customer experiences and scale businesses in ways previously impossible. At&hellip;
+                        <img src="https://jamestenniswood.com/media/posts/5/Setup-2.png" alt="User flow to understand the customers use case" />
+                    Our team was challenged to create a seamless events monitoring experience, where customers can understand the health of their setup&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://jamestenniswood.com/media/posts/6/Fashion-Search.png" class="type:primaryImage" alt="Algolia Generative Commerce" /></p>
+                    <p><img src="https://jamestenniswood.com/media/posts/5/Setup-2.png" class="type:primaryImage" alt="User flow to understand the customers use case" /></p>
                 <section class="e-content" data-field="body">
 <section class="section section--body section--first section--last">
-<div>Generative AI is transforming industries, creating new opportunities to enhance customer experiences and scale businesses in ways previously impossible. At Algolia, we wanted to investigate how our retails customers could leverage this new tool to improve their customers buying experience.</div>
-<div>
-<h2><strong>Goal</strong></h2>
-<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">How might we leverage generative AI to improve the customer journey—helping users quickly find the right products, increasing engagement, and strengthening brand relationships? </span></p>
-</div>
+<p class="section-divider"><span style="color: var(--headings-color); font-family: var(--font-base); font-size: 1.26562em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);">Our team was challenged to create a seamless events monitoring experience, where customers can understand the health of their setup at a glance, and continue their path to enable Algolia services that boost their business performance.</span></p>
 <div class="section-content">
-<div class="section-inner sectionLayout--outsetRow" data-paragraph-count="2">
-<h2><strong>Discovery</strong></h2>
-<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">We sort to understand consumer and retailers pain points to identify opportunities to bring to market. Our focus was on turning top-of-funnel interest into meaningful conversations that drive satisfaction and loyalty. </span>We conducted user interviews with both customers and retailers to understand their challenges.</p>
-<h5><strong>Customer Insights</strong></h5>
-<p>Customers often felt overwhelmed when making purchasing decisions, particularly in unfamiliar product categories. They struggled to process excessive information, leading to decision paralysis—a feeling of being blocked from making a confident choice. Challenges included...</p>
-<ul>
-<li>Too much information, not enough clarity – Customers researched extensively but struggled to distill insights into actionable decisions.</li>
-<li>Desire for confidence in buying decisions – They didn’t want to default to the cheapest option or rely solely on brand recognition.</li>
-<li>Difficulty in narrowing choices – Trade-offs made them anxious about missing out on better options.</li>
-<li>Complexity in bundling products within a fixed budget – For example, purchasing a home entertainment setup or outfitting a kitchen felt overwhelming.</li>
+<div class="section-inner sectionLayout--insetColumn">
+<h6 id="a61d" class="graf graf--h4 graf-after--h4">Why is this important?</h6>
+<p id="0a75" class="graf graf--p graf-after--h4">Tracking end customer events is critical to enabling AI recommendations, which helps optimise their search experience and automate a lot of the detailed configuration work connected with category management, search query reranking and synonym generation.</p>
+<h6 id="a140" class="graf graf--h4 graf-after--p">Principles</h6>
+<ul class="postList">
+<li id="abc8" class="graf graf--li graf-after--h4">Users can quickly understand the health of the data being shared</li>
+<li id="350e" class="graf graf--li graf-after--li">Every path should have an actionable next step for the user to follow</li>
+<li id="ab98" class="graf graf--li graf-after--li">Errors should be framed their impact to the services they power</li>
 </ul>
-<h5><strong>Retailer Insights</strong></h5>
-<p>Retailers faced challenges in converting top-of-funnel customers. Early engagement was difficult because customers lacked a clear understanding of what they needed, making product recommendations ineffective. Challenges included...</p>
-<ul>
-<li>High churn at the top of the funnel – Customers lacked confidence in refining their search, leading to drop-off.</li>
-<li>Late-stage customer engagement – Retailers typically interacted with customers only after they had decided on a product, reducing differentiation to price and service.</li>
-<li>Missed opportunities for brand loyalty – Customers often started their product search on Google rather than directly with a retailer. Retailers wanted to engage earlier in the journey to build long-term relationships.</li>
-</ul>
-<h2>Solution </h2>
-<p>We developed a two-pronged approach to address customer decision paralysis and enhance the shopping experience:</p>
-<h4><strong>Generative Shopping Guides</strong></h4>
-<p>These guides blend human subject matter expertise with AI-driven insights. By combining the deep domain knowledge that retailers already possess with tailored style guidelines for large language models, each retailer can offer a unique, branded experience. This approach reassures customers that they are receiving valuable expertise and a trusted starting point for navigating complex choices.</p>
-<h4><strong>Conversational Shopping Assistance</strong></h4>
-<p>In parallel, we created an interactive shopping assistant designed to engage users when signals of churn—like broad search queries or high bounce rates—are detected. The assistant asks targeted questions to guide users toward suitable solutions, offering a seamless transition between search, product details, and generative product comparisons. Feedback confirmed that users value a concise, immediately beneficial interaction that empowers them to explore a curated selection of products rather than passively accepting a recommendation.</p>
-<p>Together, these solutions not only help customers make informed decisions but also reinforce the retailer’s role as a knowledgeable and trusted partner throughout the shopping journey.</p>
+</div>
+<div class="section-inner sectionLayout--outsetColumn"> </div>
+<div class="section-inner sectionLayout--insetColumn">
+<figure id="0299" class="graf graf--figure graf-after--figure"><figure class="post__image post__image--wide"><img loading="lazy"  src="https://jamestenniswood.com/media/posts/5/Setup-5.png" alt="Flow to guide customers to use case specific advice" width="2884" height="2058" data-image-id="1*seJT10aXD1kG-l1o0ao-UA.png" data-width="2884" data-height="2058" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://jamestenniswood.com/media/posts/5/responsive/Setup-5-xs.png 384w ,https://jamestenniswood.com/media/posts/5/responsive/Setup-5-sm.png 600w ,https://jamestenniswood.com/media/posts/5/responsive/Setup-5-md.png 768w ,https://jamestenniswood.com/media/posts/5/responsive/Setup-5-lg.png 1200w ,https://jamestenniswood.com/media/posts/5/responsive/Setup-5-xl.png 1600w"></figure></figure>
+<p id="91c1" class="graf graf--p graf-after--figure">Event configuration and management serve as the means to achieve this goal, rather than the end objective. Monitoring the health of events will be done by both technical experts and business managers.</p>
+</div>
+<div class="section-inner sectionLayout--outsetColumn">
+<figure id="daf9" class="graf graf--figure graf--layoutOutsetCenter graf-after--p"><figure class="post__image post__image--wide"><img loading="lazy"  src="https://jamestenniswood.com/media/posts/5/Hub.png" alt="Events health overview" width="2930" height="2198" data-image-id="1*T4HU3t_Ubh1utxtq11VNKA.png" data-width="2930" data-height="2198" data-is-featured="true" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://jamestenniswood.com/media/posts/5/responsive/Hub-xs.png 384w ,https://jamestenniswood.com/media/posts/5/responsive/Hub-sm.png 600w ,https://jamestenniswood.com/media/posts/5/responsive/Hub-md.png 768w ,https://jamestenniswood.com/media/posts/5/responsive/Hub-lg.png 1200w ,https://jamestenniswood.com/media/posts/5/responsive/Hub-xl.png 1600w"></figure></figure>
+</div>
+<div class="section-inner sectionLayout--insetColumn">
+<figure id="be13" class="graf graf--figure graf-after--figure"><figure class="post__image post__image--wide"><img loading="lazy"  src="https://jamestenniswood.com/media/posts/5/Connector.png" alt="Events health ingest overview" width="2880" height="2790" data-image-id="1*ksv8K8m1P6AcH2wKnE70wg.png" data-width="2880" data-height="2790" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://jamestenniswood.com/media/posts/5/responsive/Connector-xs.png 384w ,https://jamestenniswood.com/media/posts/5/responsive/Connector-sm.png 600w ,https://jamestenniswood.com/media/posts/5/responsive/Connector-md.png 768w ,https://jamestenniswood.com/media/posts/5/responsive/Connector-lg.png 1200w ,https://jamestenniswood.com/media/posts/5/responsive/Connector-xl.png 1600w"></figure></figure>
+<p id="a078" class="graf graf--p graf-after--figure">Defining the use journey through setup, and how to prioritise customer issues across their setup.</p>
+</div>
+<div class="section-inner sectionLayout--outsetColumn">
+<figure id="b106" class="graf graf--figure graf--layoutOutsetCenter graf-after--p"><figure class="post__image post__image--wide"><img loading="lazy"  src="https://jamestenniswood.com/media/posts/5/User-Journey.png" alt="Event setup flow" width="3802" height="1907" data-image-id="1*OJrwuf--ToebaqLYfjlAVQ.png" data-width="3802" data-height="1907" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://jamestenniswood.com/media/posts/5/responsive/User-Journey-xs.png 384w ,https://jamestenniswood.com/media/posts/5/responsive/User-Journey-sm.png 600w ,https://jamestenniswood.com/media/posts/5/responsive/User-Journey-md.png 768w ,https://jamestenniswood.com/media/posts/5/responsive/User-Journey-lg.png 1200w ,https://jamestenniswood.com/media/posts/5/responsive/User-Journey-xl.png 1600w"></figure></figure>
+<figure id="1941" class="graf graf--figure graf--layoutOutsetCenter graf-after--figure graf--trailing"><figure class="post__image post__image--wide"><img loading="lazy"  src="https://jamestenniswood.com/media/posts/5/Error-Handling.png" alt="Event error check flow" width="4026" height="2027" data-image-id="1*VUlRnTIwOG8e6LynByl4fQ.png" data-width="4026" data-height="2027" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://jamestenniswood.com/media/posts/5/responsive/Error-Handling-xs.png 384w ,https://jamestenniswood.com/media/posts/5/responsive/Error-Handling-sm.png 600w ,https://jamestenniswood.com/media/posts/5/responsive/Error-Handling-md.png 768w ,https://jamestenniswood.com/media/posts/5/responsive/Error-Handling-lg.png 1200w ,https://jamestenniswood.com/media/posts/5/responsive/Error-Handling-xl.png 1600w"></figure></figure>
 </div>
 </div>
 </section>
 </section>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Algolia Crawler Management</title>
+        <author>
+            <name>James Tenniswood</name>
+        </author>
+        <link href="https://jamestenniswood.com/algolia-crawler-management/"/>
+        <id>https://jamestenniswood.com/algolia-crawler-management/</id>
+        <media:content url="https://jamestenniswood.com/media/posts/7/crawler1.webp" medium="image" />
+            <category term="Algolia"/>
+
+        <updated>2022-02-04T15:05:00+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jamestenniswood.com/media/posts/7/crawler1.webp" alt="Developer tools provide a platform to manage configurations and promptly assess the impact of any changes made." />
+                    To deliver great search experiences, aggregating multiple data sources is crucial. Our challenge was to create an Algolia crawler capable&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://jamestenniswood.com/media/posts/7/crawler1.webp" class="type:primaryImage" alt="Developer tools provide a platform to manage configurations and promptly assess the impact of any changes made." /></p>
+                <section class="e-content" data-field="body">
+<section class="section section--body section--first section--last">
+<div class="section-divider"><span style="color: var(--headings-color); font-family: var(--font-base); font-size: 1.26562em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);">To deliver great search experiences, aggregating multiple data sources is crucial. Our challenge was to create an Algolia crawler capable of swiftly combining public and private data, to help showcasing the platform’s capabilities.</span></div>
+<div class="section-content">
+<div class="section-inner sectionLayout--insetColumn">
+<h4 id="25a1" class="graf graf--h4 graf-after--h4">Context</h4>
+<p id="b85d" class="graf graf--p graf-after--h4">The Algolia Crawler serves as a versatile tool for efficiently extracting content from multiple websites, formatting it as needed, and seamlessly uploading it to Algolia. Its functionality includes the rapid aggregation of distributed content, ensuring that your data is consolidated effectively.</p>
+</div>
+<div class="section-inner sectionLayout--insetColumn">
+<h4 id="2875" class="graf graf--h4 graf-after--figure">Challenges</h4>
+<p id="e529" class="graf graf--p graf-after--h4">The obstacle I encountered revolved around transforming this internal tool into a pivotal asset for driving our product-led growth strategy. This entailed smoothing out any rough edges, from streamlining the customer onboarding and configuration process to ensuring that subsequent users could easily navigate existing configurations even without prior setup experience.</p>
+</div>
+<div class="section-inner sectionLayout--outsetColumn">
+<figure id="1031" class="graf graf--figure graf--layoutOutsetCenter graf-after--p"><figure class="post__image post__image--wide"><img loading="lazy"  src="https://jamestenniswood.com/media/posts/7/crawler2.webp" alt="A quick summary of the crawler instance’s health status." width="2000" height="1331" data-image-id="1*dCDSg17_3SDDBjfWEqyDIQ.png" data-width="2880" data-height="1916" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://jamestenniswood.com/media/posts/7/responsive/crawler2-xs.webp 384w ,https://jamestenniswood.com/media/posts/7/responsive/crawler2-sm.webp 600w ,https://jamestenniswood.com/media/posts/7/responsive/crawler2-md.webp 768w ,https://jamestenniswood.com/media/posts/7/responsive/crawler2-lg.webp 1200w ,https://jamestenniswood.com/media/posts/7/responsive/crawler2-xl.webp 1600w"></figure>
+<figcaption class="imageCaption">A quick summary of the crawler instance’s health status.</figcaption>
+</figure>
+</div>
+<div class="section-inner sectionLayout--insetColumn">
+<h4 id="318c" class="graf graf--h4 graf-after--figure">Inline guidance</h4>
+<p id="3e25" class="graf graf--p graf-after--h4">Offering comprehensive guidance was essential, avoiding assumptions about customer knowledge and instead providing context for every aspect of the product. This tool is typically a ‘set and forget’ experience, rather than a frequently used tool in a developer’s toolkit, so ensuring clarity and support throughout the user journey is paramount.</p>
+<figure id="03db" class="graf graf--figure graf-after--p"><figure class="post__image"><img loading="lazy"  src="https://jamestenniswood.com/media/posts/7/crawler3-2.webp" alt="" width="2880" height="1916" data-image-id="1*RPHR5H3BMZzKZ-EGlir6fQ.png" data-width="2880" data-height="1916" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://jamestenniswood.com/media/posts/7/responsive/crawler3-2-xs.webp 384w ,https://jamestenniswood.com/media/posts/7/responsive/crawler3-2-sm.webp 600w ,https://jamestenniswood.com/media/posts/7/responsive/crawler3-2-md.webp 768w ,https://jamestenniswood.com/media/posts/7/responsive/crawler3-2-lg.webp 1200w ,https://jamestenniswood.com/media/posts/7/responsive/crawler3-2-xl.webp 1600w"></figure>
+<figcaption class="imageCaption">Path Explore enables users to understand why certain content was skipped and resolve their issues.</figcaption>
+</figure>
+<h4 id="8106" class="graf graf--h4 graf-after--figure">Onboarding</h4>
+<p id="bf30" class="graf graf--p graf-after--h4">Establishing a straightforward method for new customers to authenticate the domains they want to crawl was crucial. Demonstrating value promptly to users is paramount, as it allows us to then offer additional recommendations on how to deploy this tool effectively to meet their specific needs.</p>
+</div>
+<div class="section-inner sectionLayout--outsetColumn">
+<figure id="ec20" class="graf graf--figure graf--layoutOutsetCenter graf-after--p"><figure class="post__image"><img loading="lazy"  src="https://jamestenniswood.com/media/posts/7/crawler4.webp" alt="" width="2000" height="1189" data-image-id="1*iytLVjvTLS1hUANdjpyD9w.png" data-width="2880" data-height="1712" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://jamestenniswood.com/media/posts/7/responsive/crawler4-xs.webp 384w ,https://jamestenniswood.com/media/posts/7/responsive/crawler4-sm.webp 600w ,https://jamestenniswood.com/media/posts/7/responsive/crawler4-md.webp 768w ,https://jamestenniswood.com/media/posts/7/responsive/crawler4-lg.webp 1200w ,https://jamestenniswood.com/media/posts/7/responsive/crawler4-xl.webp 1600w"></figure></figure>
+<figure id="0f6f" class="graf graf--figure graf--layoutOutsetCenter graf-after--figure"><figure class="post__image"><img loading="lazy"  src="https://jamestenniswood.com/media/posts/7/crawler5.webp" alt="" width="2880" height="1712" data-image-id="1*6Erq3gHW8ESCuXJHwm6THQ.png" data-width="2880" data-height="1712" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://jamestenniswood.com/media/posts/7/responsive/crawler5-xs.webp 384w ,https://jamestenniswood.com/media/posts/7/responsive/crawler5-sm.webp 600w ,https://jamestenniswood.com/media/posts/7/responsive/crawler5-md.webp 768w ,https://jamestenniswood.com/media/posts/7/responsive/crawler5-lg.webp 1200w ,https://jamestenniswood.com/media/posts/7/responsive/crawler5-xl.webp 1600w"></figure></figure>
+<figure id="6ebb" class="graf graf--figure graf--layoutOutsetCenter graf-after--figure"><figure class="post__image"><img loading="lazy"  src="https://jamestenniswood.com/media/posts/7/crawler6.webp" alt="" width="2000" height="1189" data-image-id="1*iqQV-rJgEeKNUhP1tbEs_w.png" data-width="2880" data-height="1712" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://jamestenniswood.com/media/posts/7/responsive/crawler6-xs.webp 384w ,https://jamestenniswood.com/media/posts/7/responsive/crawler6-sm.webp 600w ,https://jamestenniswood.com/media/posts/7/responsive/crawler6-md.webp 768w ,https://jamestenniswood.com/media/posts/7/responsive/crawler6-lg.webp 1200w ,https://jamestenniswood.com/media/posts/7/responsive/crawler6-xl.webp 1600w"></figure></figure>
+<figure id="0ad3" class="graf graf--figure graf--layoutOutsetCenter graf-after--figure graf--trailing"><figure class="post__image"><img loading="lazy"  src="https://jamestenniswood.com/media/posts/7/crawler7.webp" alt="" width="2000" height="1189" data-image-id="1*Z-pLACub8v77bBINHlrZCw.png" data-width="2880" data-height="1712" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://jamestenniswood.com/media/posts/7/responsive/crawler7-xs.webp 384w ,https://jamestenniswood.com/media/posts/7/responsive/crawler7-sm.webp 600w ,https://jamestenniswood.com/media/posts/7/responsive/crawler7-md.webp 768w ,https://jamestenniswood.com/media/posts/7/responsive/crawler7-lg.webp 1200w ,https://jamestenniswood.com/media/posts/7/responsive/crawler7-xl.webp 1600w"></figure></figure>
+</div>
+</div>
+</section>
+</section>
+<footer>
+<p> </p>
+</footer>
             ]]>
         </content>
     </entry>
@@ -507,33 +564,6 @@
 <footer>
 <figure class="post__image post__image--wide"><img loading="lazy"  src="https://jamestenniswood.com/media/posts/18/vogue4.webp" alt="" width="1280" height="1685" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://jamestenniswood.com/media/posts/18/responsive/vogue4-xs.webp 384w ,https://jamestenniswood.com/media/posts/18/responsive/vogue4-sm.webp 600w ,https://jamestenniswood.com/media/posts/18/responsive/vogue4-md.webp 768w ,https://jamestenniswood.com/media/posts/18/responsive/vogue4-lg.webp 1200w ,https://jamestenniswood.com/media/posts/18/responsive/vogue4-xl.webp 1600w"></figure>
 </footer>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Best Buy</title>
-        <author>
-            <name>James Tenniswood</name>
-        </author>
-        <link href="https://jamestenniswood.com/best-buy-online-experience/"/>
-        <id>https://jamestenniswood.com/best-buy-online-experience/</id>
-        <media:content url="https://jamestenniswood.com/media/posts/19/bestbuy1.webp" medium="image" />
-
-        <updated>2009-04-16T15:11:00+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://jamestenniswood.com/media/posts/19/bestbuy1.webp" alt="Best Buy Home" />
-                    Responsible for the development of visual design for Best Buy launch in the UK. Supporting the development of concept marketing,&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://jamestenniswood.com/media/posts/19/bestbuy1.webp" class="type:primaryImage" alt="Best Buy Home" /></p>
-                <section class="e-content" data-field="body">
-<p class="p1">Responsible for the development of visual design for Best Buy launch in the UK. Supporting the development of concept marketing, online style guides and prototype user testing material.</p>
-<figure class="post__image post__image--wide"><img loading="lazy"  src="https://jamestenniswood.com/media/posts/19/bestbuy2.webp" alt="" width="1500" height="941" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://jamestenniswood.com/media/posts/19/responsive/bestbuy2-xs.webp 384w ,https://jamestenniswood.com/media/posts/19/responsive/bestbuy2-sm.webp 600w ,https://jamestenniswood.com/media/posts/19/responsive/bestbuy2-md.webp 768w ,https://jamestenniswood.com/media/posts/19/responsive/bestbuy2-lg.webp 1200w ,https://jamestenniswood.com/media/posts/19/responsive/bestbuy2-xl.webp 1600w"></figure>
-<figure class="post__image post__image--wide"><img loading="lazy"  src="https://jamestenniswood.com/media/posts/19/bestbuy3.webp" alt="" width="1500" height="941" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://jamestenniswood.com/media/posts/19/responsive/bestbuy3-xs.webp 384w ,https://jamestenniswood.com/media/posts/19/responsive/bestbuy3-sm.webp 600w ,https://jamestenniswood.com/media/posts/19/responsive/bestbuy3-md.webp 768w ,https://jamestenniswood.com/media/posts/19/responsive/bestbuy3-lg.webp 1200w ,https://jamestenniswood.com/media/posts/19/responsive/bestbuy3-xl.webp 1600w"></figure>
-</section>
             ]]>
         </content>
     </entry>
