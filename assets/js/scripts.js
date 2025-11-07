@@ -428,6 +428,65 @@
 })(window.publiiThemeMenuConfig);
 
 
+// Back to top 
+const backToTopButton = document.getElementById("backToTop");
+
+if (backToTopButton) {
+    window.addEventListener('scroll', () => {
+        if (document.body.scrollTop > 400 || document.documentElement.scrollTop > 400) {
+            backToTopButton.classList.add("is-visible");
+        } else {
+            backToTopButton.classList.remove("is-visible");
+        }
+    });
+
+    backToTopButton.addEventListener('click', () => {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+}
+
+/**
+ * Responsive embeds script
+ */
+ (function () {
+	let wrappers = document.querySelectorAll('.post__video, .post__iframe');
+
+	for (let i = 0; i < wrappers.length; i++) {
+		let embed = wrappers[i].querySelector('iframe, embed, video, object');
+
+		if (!embed) {
+			continue;
+		}
+
+        if (embed.getAttribute('data-responsive') === 'false') {
+            continue;
+        }
+
+		let w = embed.getAttribute('width');
+		let h = embed.getAttribute('height');
+		let ratio = false;
+
+		if (!w || !h) {
+			continue;
+		}
+		
+		if (w.indexOf('%') > -1 && h.indexOf('%') > -1) { // percentage mode
+			w = parseFloat(w.replace('%', ''));
+			h = parseFloat(h.replace('%', ''));
+			ratio = h / w;
+		} else if (w.indexOf('%') === -1 && h.indexOf('%') === -1) { // pixels mode
+			w = parseInt(w, 10);
+			h = parseInt(h, 10);
+			ratio = h / w;
+		}
+
+		if (ratio !== false) {
+			let ratioValue = (ratio * 100) + '%';
+			wrappers[i].setAttribute('style', '--embed-aspect-ratio:' + ratioValue);
+		}
+	}
+})();
+
 // Share buttons pop-up
 (function () {
 	// share popup
@@ -500,65 +559,6 @@
 	}
 })();
 
-// Back to top 
-const backToTopButton = document.getElementById("backToTop");
-
-if (backToTopButton) {
-    window.addEventListener('scroll', () => {
-        if (document.body.scrollTop > 400 || document.documentElement.scrollTop > 400) {
-            backToTopButton.classList.add("is-visible");
-        } else {
-            backToTopButton.classList.remove("is-visible");
-        }
-    });
-
-    backToTopButton.addEventListener('click', () => {
-        window.scrollTo({ top: 0, behavior: 'smooth' });
-    });
-}
-
-
-/**
- * Responsive embeds script
- */
- (function () {
-	let wrappers = document.querySelectorAll('.post__video, .post__iframe');
-
-	for (let i = 0; i < wrappers.length; i++) {
-		let embed = wrappers[i].querySelector('iframe, embed, video, object');
-
-		if (!embed) {
-			continue;
-		}
-
-        if (embed.getAttribute('data-responsive') === 'false') {
-            continue;
-        }
-
-		let w = embed.getAttribute('width');
-		let h = embed.getAttribute('height');
-		let ratio = false;
-
-		if (!w || !h) {
-			continue;
-		}
-		
-		if (w.indexOf('%') > -1 && h.indexOf('%') > -1) { // percentage mode
-			w = parseFloat(w.replace('%', ''));
-			h = parseFloat(h.replace('%', ''));
-			ratio = h / w;
-		} else if (w.indexOf('%') === -1 && h.indexOf('%') === -1) { // pixels mode
-			w = parseInt(w, 10);
-			h = parseInt(h, 10);
-			ratio = h / w;
-		}
-
-		if (ratio !== false) {
-			let ratioValue = (ratio * 100) + '%';
-			wrappers[i].setAttribute('style', '--embed-aspect-ratio:' + ratioValue);
-		}
-	}
-})();
 
 // Search
 const searchButton = document.querySelector('.js-search-btn');
@@ -587,7 +587,6 @@ if (searchButton && searchOverlay) {
         searchOverlay.classList.remove('expanded');
     });
 }
-
 
 /**
  * Layout switcher
